@@ -1,0 +1,1449 @@
+date,day_of_week,day_type,estimated_covers,role,scheduled_staff,actual_staff,shift_hours,hourly_rate_aed,total_staff_cost_aed,overstaffed_flag,understaffed_flag
+2024-11-01,Friday,Weekend,280,Head Chef,1,1,9,220,1980,0,0
+2024-11-01,Friday,Weekend,280,Sous Chef,1,1,9,160,1440,0,0
+2024-11-01,Friday,Weekend,280,Line Cook,3,4,8,100,3200,0,0
+2024-11-01,Friday,Weekend,280,Barista,2,2,10,90,1800,0,0
+2024-11-01,Friday,Weekend,280,Waiter/Waitress,5,6,9,75,4050,0,0
+2024-11-01,Friday,Weekend,280,Cashier,1,1,8,80,640,0,0
+2024-11-01,Friday,Weekend,280,Kitchen Helper,2,2,9,65,1170,0,0
+2024-11-01,Friday,Weekend,280,Delivery/Runner,2,3,8,65,1560,0,0
+2024-11-02,Saturday,Weekend,273,Head Chef,1,1,10,220,2200,0,0
+2024-11-02,Saturday,Weekend,273,Sous Chef,1,1,9,160,1440,0,0
+2024-11-02,Saturday,Weekend,273,Line Cook,3,3,9,100,2700,0,0
+2024-11-02,Saturday,Weekend,273,Barista,2,3,10,90,2700,0,0
+2024-11-02,Saturday,Weekend,273,Waiter/Waitress,5,6,10,75,4500,0,0
+2024-11-02,Saturday,Weekend,273,Cashier,1,2,8,80,1280,0,0
+2024-11-02,Saturday,Weekend,273,Kitchen Helper,2,2,9,65,1170,0,0
+2024-11-02,Saturday,Weekend,273,Delivery/Runner,2,3,8,65,1560,0,0
+2024-11-03,Sunday,Weekend,274,Head Chef,1,1,9,220,1980,0,0
+2024-11-03,Sunday,Weekend,274,Sous Chef,1,1,10,160,1600,0,0
+2024-11-03,Sunday,Weekend,274,Line Cook,3,2,10,100,2000,0,1
+2024-11-03,Sunday,Weekend,274,Barista,2,3,8,90,2160,0,0
+2024-11-03,Sunday,Weekend,274,Waiter/Waitress,5,6,9,75,4050,0,0
+2024-11-03,Sunday,Weekend,274,Cashier,1,1,8,80,640,0,0
+2024-11-03,Sunday,Weekend,274,Kitchen Helper,2,2,8,65,1040,0,0
+2024-11-03,Sunday,Weekend,274,Delivery/Runner,2,1,8,65,520,0,1
+2024-11-04,Monday,Weekday,196,Head Chef,1,1,8,220,1760,0,0
+2024-11-04,Monday,Weekday,196,Sous Chef,1,1,8,160,1280,0,0
+2024-11-04,Monday,Weekday,196,Line Cook,2,3,8,100,2400,0,0
+2024-11-04,Monday,Weekday,196,Barista,1,1,8,90,720,0,0
+2024-11-04,Monday,Weekday,196,Waiter/Waitress,3,3,10,75,2250,0,0
+2024-11-04,Monday,Weekday,196,Cashier,1,1,9,80,720,0,0
+2024-11-04,Monday,Weekday,196,Kitchen Helper,1,1,9,65,585,0,0
+2024-11-04,Monday,Weekday,196,Delivery/Runner,1,1,10,65,650,0,0
+2024-11-05,Tuesday,Weekday,184,Head Chef,1,2,8,220,3520,0,0
+2024-11-05,Tuesday,Weekday,184,Sous Chef,1,1,10,160,1600,0,0
+2024-11-05,Tuesday,Weekday,184,Line Cook,2,3,9,100,2700,0,0
+2024-11-05,Tuesday,Weekday,184,Barista,1,1,9,90,810,0,0
+2024-11-05,Tuesday,Weekday,184,Waiter/Waitress,3,3,10,75,2250,0,0
+2024-11-05,Tuesday,Weekday,184,Cashier,1,1,9,80,720,0,0
+2024-11-05,Tuesday,Weekday,184,Kitchen Helper,1,2,10,65,1300,0,0
+2024-11-05,Tuesday,Weekday,184,Delivery/Runner,1,1,10,65,650,0,0
+2024-11-06,Wednesday,Weekday,206,Head Chef,1,1,9,220,1980,0,0
+2024-11-06,Wednesday,Weekday,206,Sous Chef,1,1,8,160,1280,0,0
+2024-11-06,Wednesday,Weekday,206,Line Cook,3,3,9,100,2700,0,0
+2024-11-06,Wednesday,Weekday,206,Barista,2,1,8,90,720,0,1
+2024-11-06,Wednesday,Weekday,206,Waiter/Waitress,4,5,9,75,3375,0,0
+2024-11-06,Wednesday,Weekday,206,Cashier,1,2,9,80,1440,0,0
+2024-11-06,Wednesday,Weekday,206,Kitchen Helper,2,2,8,65,1040,0,0
+2024-11-06,Wednesday,Weekday,206,Delivery/Runner,2,1,10,65,650,0,1
+2024-11-07,Thursday,Weekday,208,Head Chef,1,1,9,220,1980,0,0
+2024-11-07,Thursday,Weekday,208,Sous Chef,1,1,9,160,1440,0,0
+2024-11-07,Thursday,Weekday,208,Line Cook,3,4,9,100,3600,0,0
+2024-11-07,Thursday,Weekday,208,Barista,2,1,9,90,810,0,1
+2024-11-07,Thursday,Weekday,208,Waiter/Waitress,4,3,8,75,1800,0,1
+2024-11-07,Thursday,Weekday,208,Cashier,1,1,9,80,720,0,0
+2024-11-07,Thursday,Weekday,208,Kitchen Helper,2,1,10,65,650,0,1
+2024-11-07,Thursday,Weekday,208,Delivery/Runner,2,2,9,65,1170,0,0
+2024-11-08,Friday,Weekend,274,Head Chef,1,1,10,220,2200,0,0
+2024-11-08,Friday,Weekend,274,Sous Chef,1,1,9,160,1440,0,0
+2024-11-08,Friday,Weekend,274,Line Cook,3,3,8,100,2400,0,0
+2024-11-08,Friday,Weekend,274,Barista,2,3,10,90,2700,0,0
+2024-11-08,Friday,Weekend,274,Waiter/Waitress,5,5,10,75,3750,0,0
+2024-11-08,Friday,Weekend,274,Cashier,1,1,9,80,720,0,0
+2024-11-08,Friday,Weekend,274,Kitchen Helper,2,2,10,65,1300,0,0
+2024-11-08,Friday,Weekend,274,Delivery/Runner,2,3,8,65,1560,0,0
+2024-11-09,Saturday,Weekend,273,Head Chef,1,2,10,220,4400,0,0
+2024-11-09,Saturday,Weekend,273,Sous Chef,1,2,10,160,3200,0,0
+2024-11-09,Saturday,Weekend,273,Line Cook,3,3,8,100,2400,0,0
+2024-11-09,Saturday,Weekend,273,Barista,2,2,10,90,1800,0,0
+2024-11-09,Saturday,Weekend,273,Waiter/Waitress,5,5,8,75,3000,0,0
+2024-11-09,Saturday,Weekend,273,Cashier,1,1,8,80,640,0,0
+2024-11-09,Saturday,Weekend,273,Kitchen Helper,2,2,9,65,1170,0,0
+2024-11-09,Saturday,Weekend,273,Delivery/Runner,2,2,10,65,1300,0,0
+2024-11-10,Sunday,Weekend,275,Head Chef,1,2,8,220,3520,0,0
+2024-11-10,Sunday,Weekend,275,Sous Chef,1,1,8,160,1280,0,0
+2024-11-10,Sunday,Weekend,275,Line Cook,3,3,8,100,2400,0,0
+2024-11-10,Sunday,Weekend,275,Barista,2,2,9,90,1620,0,0
+2024-11-10,Sunday,Weekend,275,Waiter/Waitress,5,5,9,75,3375,0,0
+2024-11-10,Sunday,Weekend,275,Cashier,1,1,10,80,800,0,0
+2024-11-10,Sunday,Weekend,275,Kitchen Helper,2,1,9,65,585,0,1
+2024-11-10,Sunday,Weekend,275,Delivery/Runner,2,3,10,65,1950,0,0
+2024-11-11,Monday,Weekday,190,Head Chef,1,2,10,220,4400,0,0
+2024-11-11,Monday,Weekday,190,Sous Chef,1,1,9,160,1440,0,0
+2024-11-11,Monday,Weekday,190,Line Cook,2,2,9,100,1800,0,0
+2024-11-11,Monday,Weekday,190,Barista,1,1,9,90,810,0,0
+2024-11-11,Monday,Weekday,190,Waiter/Waitress,3,3,8,75,1800,0,0
+2024-11-11,Monday,Weekday,190,Cashier,1,1,10,80,800,0,0
+2024-11-11,Monday,Weekday,190,Kitchen Helper,1,1,8,65,520,0,0
+2024-11-11,Monday,Weekday,190,Delivery/Runner,1,1,8,65,520,0,0
+2024-11-12,Tuesday,Weekday,205,Head Chef,1,2,9,220,3960,0,0
+2024-11-12,Tuesday,Weekday,205,Sous Chef,1,1,10,160,1600,0,0
+2024-11-12,Tuesday,Weekday,205,Line Cook,3,3,9,100,2700,0,0
+2024-11-12,Tuesday,Weekday,205,Barista,2,2,10,90,1800,0,0
+2024-11-12,Tuesday,Weekday,205,Waiter/Waitress,4,5,10,75,3750,0,0
+2024-11-12,Tuesday,Weekday,205,Cashier,1,1,9,80,720,0,0
+2024-11-12,Tuesday,Weekday,205,Kitchen Helper,2,2,10,65,1300,0,0
+2024-11-12,Tuesday,Weekday,205,Delivery/Runner,2,3,10,65,1950,0,0
+2024-11-13,Wednesday,Weekday,204,Head Chef,1,1,10,220,2200,0,0
+2024-11-13,Wednesday,Weekday,204,Sous Chef,1,1,8,160,1280,0,0
+2024-11-13,Wednesday,Weekday,204,Line Cook,3,4,10,100,4000,0,0
+2024-11-13,Wednesday,Weekday,204,Barista,2,2,8,90,1440,0,0
+2024-11-13,Wednesday,Weekday,204,Waiter/Waitress,4,4,10,75,3000,0,0
+2024-11-13,Wednesday,Weekday,204,Cashier,1,2,9,80,1440,0,0
+2024-11-13,Wednesday,Weekday,204,Kitchen Helper,2,2,9,65,1170,0,0
+2024-11-13,Wednesday,Weekday,204,Delivery/Runner,2,3,8,65,1560,0,0
+2024-11-14,Thursday,Weekday,159,Head Chef,1,2,9,220,3960,0,0
+2024-11-14,Thursday,Weekday,159,Sous Chef,1,1,9,160,1440,0,0
+2024-11-14,Thursday,Weekday,159,Line Cook,2,2,9,100,1800,0,0
+2024-11-14,Thursday,Weekday,159,Barista,1,1,9,90,810,0,0
+2024-11-14,Thursday,Weekday,159,Waiter/Waitress,3,3,9,75,2025,0,0
+2024-11-14,Thursday,Weekday,159,Cashier,1,1,10,80,800,0,0
+2024-11-14,Thursday,Weekday,159,Kitchen Helper,1,2,10,65,1300,0,0
+2024-11-14,Thursday,Weekday,159,Delivery/Runner,1,1,8,65,520,0,0
+2024-11-15,Friday,Weekend,309,Head Chef,1,1,10,220,2200,0,0
+2024-11-15,Friday,Weekend,309,Sous Chef,1,1,8,160,1280,0,0
+2024-11-15,Friday,Weekend,309,Line Cook,3,2,8,100,1600,0,1
+2024-11-15,Friday,Weekend,309,Barista,2,2,8,90,1440,0,0
+2024-11-15,Friday,Weekend,309,Waiter/Waitress,5,5,8,75,3000,0,0
+2024-11-15,Friday,Weekend,309,Cashier,1,1,9,80,720,0,0
+2024-11-15,Friday,Weekend,309,Kitchen Helper,2,1,9,65,585,0,1
+2024-11-15,Friday,Weekend,309,Delivery/Runner,2,2,9,65,1170,0,0
+2024-11-16,Saturday,Weekend,288,Head Chef,1,1,8,220,1760,0,0
+2024-11-16,Saturday,Weekend,288,Sous Chef,1,1,9,160,1440,0,0
+2024-11-16,Saturday,Weekend,288,Line Cook,3,3,10,100,3000,0,0
+2024-11-16,Saturday,Weekend,288,Barista,2,3,9,90,2430,0,0
+2024-11-16,Saturday,Weekend,288,Waiter/Waitress,5,5,9,75,3375,0,0
+2024-11-16,Saturday,Weekend,288,Cashier,1,1,9,80,720,0,0
+2024-11-16,Saturday,Weekend,288,Kitchen Helper,2,3,9,65,1755,0,0
+2024-11-16,Saturday,Weekend,288,Delivery/Runner,2,2,9,65,1170,0,0
+2024-11-17,Sunday,Weekend,298,Head Chef,1,1,9,220,1980,0,0
+2024-11-17,Sunday,Weekend,298,Sous Chef,1,1,8,160,1280,0,0
+2024-11-17,Sunday,Weekend,298,Line Cook,3,3,10,100,3000,0,0
+2024-11-17,Sunday,Weekend,298,Barista,2,2,9,90,1620,0,0
+2024-11-17,Sunday,Weekend,298,Waiter/Waitress,5,5,8,75,3000,0,0
+2024-11-17,Sunday,Weekend,298,Cashier,1,1,9,80,720,0,0
+2024-11-17,Sunday,Weekend,298,Kitchen Helper,2,1,9,65,585,0,1
+2024-11-17,Sunday,Weekend,298,Delivery/Runner,2,2,10,65,1300,0,0
+2024-11-18,Monday,Weekday,210,Head Chef,1,1,8,220,1760,0,0
+2024-11-18,Monday,Weekday,210,Sous Chef,1,1,8,160,1280,0,0
+2024-11-18,Monday,Weekday,210,Line Cook,3,4,10,100,4000,0,0
+2024-11-18,Monday,Weekday,210,Barista,2,2,9,90,1620,0,0
+2024-11-18,Monday,Weekday,210,Waiter/Waitress,4,3,10,75,2250,0,1
+2024-11-18,Monday,Weekday,210,Cashier,1,2,8,80,1280,0,0
+2024-11-18,Monday,Weekday,210,Kitchen Helper,2,2,10,65,1300,0,0
+2024-11-18,Monday,Weekday,210,Delivery/Runner,2,3,8,65,1560,0,0
+2024-11-19,Tuesday,Weekday,190,Head Chef,1,1,9,220,1980,0,0
+2024-11-19,Tuesday,Weekday,190,Sous Chef,1,2,8,160,2560,0,0
+2024-11-19,Tuesday,Weekday,190,Line Cook,2,2,8,100,1600,0,0
+2024-11-19,Tuesday,Weekday,190,Barista,1,2,9,90,1620,0,0
+2024-11-19,Tuesday,Weekday,190,Waiter/Waitress,3,3,8,75,1800,0,0
+2024-11-19,Tuesday,Weekday,190,Cashier,1,1,8,80,640,0,0
+2024-11-19,Tuesday,Weekday,190,Kitchen Helper,1,1,10,65,650,0,0
+2024-11-19,Tuesday,Weekday,190,Delivery/Runner,1,2,9,65,1170,0,0
+2024-11-20,Wednesday,Weekday,202,Head Chef,1,1,8,220,1760,0,0
+2024-11-20,Wednesday,Weekday,202,Sous Chef,1,1,10,160,1600,0,0
+2024-11-20,Wednesday,Weekday,202,Line Cook,3,4,10,100,4000,0,0
+2024-11-20,Wednesday,Weekday,202,Barista,2,3,8,90,2160,0,0
+2024-11-20,Wednesday,Weekday,202,Waiter/Waitress,4,4,10,75,3000,0,0
+2024-11-20,Wednesday,Weekday,202,Cashier,1,1,10,80,800,0,0
+2024-11-20,Wednesday,Weekday,202,Kitchen Helper,2,3,8,65,1560,0,0
+2024-11-20,Wednesday,Weekday,202,Delivery/Runner,2,2,10,65,1300,0,0
+2024-11-21,Thursday,Weekday,209,Head Chef,1,1,8,220,1760,0,0
+2024-11-21,Thursday,Weekday,209,Sous Chef,1,1,9,160,1440,0,0
+2024-11-21,Thursday,Weekday,209,Line Cook,3,4,10,100,4000,0,0
+2024-11-21,Thursday,Weekday,209,Barista,2,2,8,90,1440,0,0
+2024-11-21,Thursday,Weekday,209,Waiter/Waitress,4,3,10,75,2250,0,1
+2024-11-21,Thursday,Weekday,209,Cashier,1,1,9,80,720,0,0
+2024-11-21,Thursday,Weekday,209,Kitchen Helper,2,1,10,65,650,0,1
+2024-11-21,Thursday,Weekday,209,Delivery/Runner,2,2,8,65,1040,0,0
+2024-11-22,Friday,Weekend,291,Head Chef,1,1,10,220,2200,0,0
+2024-11-22,Friday,Weekend,291,Sous Chef,1,1,9,160,1440,0,0
+2024-11-22,Friday,Weekend,291,Line Cook,3,3,10,100,3000,0,0
+2024-11-22,Friday,Weekend,291,Barista,2,2,10,90,1800,0,0
+2024-11-22,Friday,Weekend,291,Waiter/Waitress,5,6,9,75,4050,0,0
+2024-11-22,Friday,Weekend,291,Cashier,1,1,8,80,640,0,0
+2024-11-22,Friday,Weekend,291,Kitchen Helper,2,2,8,65,1040,0,0
+2024-11-22,Friday,Weekend,291,Delivery/Runner,2,1,10,65,650,0,1
+2024-11-23,Saturday,Weekend,271,Head Chef,1,2,10,220,4400,0,0
+2024-11-23,Saturday,Weekend,271,Sous Chef,1,1,9,160,1440,0,0
+2024-11-23,Saturday,Weekend,271,Line Cook,3,3,8,100,2400,0,0
+2024-11-23,Saturday,Weekend,271,Barista,2,3,10,90,2700,0,0
+2024-11-23,Saturday,Weekend,271,Waiter/Waitress,5,4,10,75,3000,0,1
+2024-11-23,Saturday,Weekend,271,Cashier,1,1,8,80,640,0,0
+2024-11-23,Saturday,Weekend,271,Kitchen Helper,2,3,8,65,1560,0,0
+2024-11-23,Saturday,Weekend,271,Delivery/Runner,2,2,8,65,1040,0,0
+2024-11-24,Sunday,Weekend,314,Head Chef,1,1,10,220,2200,0,0
+2024-11-24,Sunday,Weekend,314,Sous Chef,1,1,9,160,1440,0,0
+2024-11-24,Sunday,Weekend,314,Line Cook,3,4,10,100,4000,0,0
+2024-11-24,Sunday,Weekend,314,Barista,2,2,8,90,1440,0,0
+2024-11-24,Sunday,Weekend,314,Waiter/Waitress,5,5,8,75,3000,0,0
+2024-11-24,Sunday,Weekend,314,Cashier,1,1,9,80,720,0,0
+2024-11-24,Sunday,Weekend,314,Kitchen Helper,2,2,9,65,1170,0,0
+2024-11-24,Sunday,Weekend,314,Delivery/Runner,2,3,8,65,1560,0,0
+2024-11-25,Monday,Weekday,226,Head Chef,1,1,8,220,1760,0,0
+2024-11-25,Monday,Weekday,226,Sous Chef,1,1,8,160,1280,0,0
+2024-11-25,Monday,Weekday,226,Line Cook,3,3,8,100,2400,0,0
+2024-11-25,Monday,Weekday,226,Barista,2,2,8,90,1440,0,0
+2024-11-25,Monday,Weekday,226,Waiter/Waitress,4,4,9,75,2700,0,0
+2024-11-25,Monday,Weekday,226,Cashier,1,1,8,80,640,0,0
+2024-11-25,Monday,Weekday,226,Kitchen Helper,2,1,8,65,520,0,1
+2024-11-25,Monday,Weekday,226,Delivery/Runner,2,2,8,65,1040,0,0
+2024-11-26,Tuesday,Weekday,179,Head Chef,1,1,9,220,1980,0,0
+2024-11-26,Tuesday,Weekday,179,Sous Chef,1,1,9,160,1440,0,0
+2024-11-26,Tuesday,Weekday,179,Line Cook,2,3,10,100,3000,0,0
+2024-11-26,Tuesday,Weekday,179,Barista,1,1,10,90,900,0,0
+2024-11-26,Tuesday,Weekday,179,Waiter/Waitress,3,3,8,75,1800,0,0
+2024-11-26,Tuesday,Weekday,179,Cashier,1,1,9,80,720,0,0
+2024-11-26,Tuesday,Weekday,179,Kitchen Helper,1,1,8,65,520,0,0
+2024-11-26,Tuesday,Weekday,179,Delivery/Runner,1,1,10,65,650,0,0
+2024-11-27,Wednesday,Weekday,206,Head Chef,1,1,9,220,1980,0,0
+2024-11-27,Wednesday,Weekday,206,Sous Chef,1,1,8,160,1280,0,0
+2024-11-27,Wednesday,Weekday,206,Line Cook,3,3,9,100,2700,0,0
+2024-11-27,Wednesday,Weekday,206,Barista,2,2,10,90,1800,0,0
+2024-11-27,Wednesday,Weekday,206,Waiter/Waitress,4,4,8,75,2400,0,0
+2024-11-27,Wednesday,Weekday,206,Cashier,1,1,8,80,640,0,0
+2024-11-27,Wednesday,Weekday,206,Kitchen Helper,2,1,10,65,650,0,1
+2024-11-27,Wednesday,Weekday,206,Delivery/Runner,2,2,9,65,1170,0,0
+2024-11-28,Thursday,Weekday,214,Head Chef,1,1,9,220,1980,0,0
+2024-11-28,Thursday,Weekday,214,Sous Chef,1,1,10,160,1600,0,0
+2024-11-28,Thursday,Weekday,214,Line Cook,3,3,10,100,3000,0,0
+2024-11-28,Thursday,Weekday,214,Barista,2,2,10,90,1800,0,0
+2024-11-28,Thursday,Weekday,214,Waiter/Waitress,4,5,10,75,3750,0,0
+2024-11-28,Thursday,Weekday,214,Cashier,1,1,10,80,800,0,0
+2024-11-28,Thursday,Weekday,214,Kitchen Helper,2,2,8,65,1040,0,0
+2024-11-28,Thursday,Weekday,214,Delivery/Runner,2,2,10,65,1300,0,0
+2024-11-29,Friday,Weekend,316,Head Chef,1,1,10,220,2200,0,0
+2024-11-29,Friday,Weekend,316,Sous Chef,1,1,10,160,1600,0,0
+2024-11-29,Friday,Weekend,316,Line Cook,3,3,9,100,2700,0,0
+2024-11-29,Friday,Weekend,316,Barista,2,2,9,90,1620,0,0
+2024-11-29,Friday,Weekend,316,Waiter/Waitress,5,5,9,75,3375,0,0
+2024-11-29,Friday,Weekend,316,Cashier,1,1,10,80,800,0,0
+2024-11-29,Friday,Weekend,316,Kitchen Helper,2,1,10,65,650,0,1
+2024-11-29,Friday,Weekend,316,Delivery/Runner,2,3,8,65,1560,0,0
+2024-11-30,Saturday,Weekend,263,Head Chef,1,1,8,220,1760,0,0
+2024-11-30,Saturday,Weekend,263,Sous Chef,1,1,8,160,1280,0,0
+2024-11-30,Saturday,Weekend,263,Line Cook,3,4,9,100,3600,0,0
+2024-11-30,Saturday,Weekend,263,Barista,2,2,8,90,1440,0,0
+2024-11-30,Saturday,Weekend,263,Waiter/Waitress,5,6,10,75,4500,0,0
+2024-11-30,Saturday,Weekend,263,Cashier,1,1,9,80,720,0,0
+2024-11-30,Saturday,Weekend,263,Kitchen Helper,2,2,9,65,1170,0,0
+2024-11-30,Saturday,Weekend,263,Delivery/Runner,2,2,9,65,1170,0,0
+2024-12-01,Sunday,Weekend,283,Head Chef,1,1,9,220,1980,0,0
+2024-12-01,Sunday,Weekend,283,Sous Chef,1,2,8,160,2560,0,0
+2024-12-01,Sunday,Weekend,283,Line Cook,3,3,9,100,2700,0,0
+2024-12-01,Sunday,Weekend,283,Barista,2,3,8,90,2160,0,0
+2024-12-01,Sunday,Weekend,283,Waiter/Waitress,5,6,10,75,4500,0,0
+2024-12-01,Sunday,Weekend,283,Cashier,1,1,10,80,800,0,0
+2024-12-01,Sunday,Weekend,283,Kitchen Helper,2,3,8,65,1560,0,0
+2024-12-01,Sunday,Weekend,283,Delivery/Runner,2,1,10,65,650,0,1
+2024-12-02,Monday,Weekday,214,Head Chef,1,1,10,220,2200,0,0
+2024-12-02,Monday,Weekday,214,Sous Chef,1,2,9,160,2880,0,0
+2024-12-02,Monday,Weekday,214,Line Cook,3,4,9,100,3600,0,0
+2024-12-02,Monday,Weekday,214,Barista,2,2,9,90,1620,0,0
+2024-12-02,Monday,Weekday,214,Waiter/Waitress,4,3,10,75,2250,0,1
+2024-12-02,Monday,Weekday,214,Cashier,1,2,8,80,1280,0,0
+2024-12-02,Monday,Weekday,214,Kitchen Helper,2,1,9,65,585,0,1
+2024-12-02,Monday,Weekday,214,Delivery/Runner,2,2,9,65,1170,0,0
+2024-12-03,Tuesday,Weekday,198,Head Chef,1,1,10,220,2200,0,0
+2024-12-03,Tuesday,Weekday,198,Sous Chef,1,1,8,160,1280,0,0
+2024-12-03,Tuesday,Weekday,198,Line Cook,2,3,10,100,3000,0,0
+2024-12-03,Tuesday,Weekday,198,Barista,1,1,9,90,810,0,0
+2024-12-03,Tuesday,Weekday,198,Waiter/Waitress,3,3,10,75,2250,0,0
+2024-12-03,Tuesday,Weekday,198,Cashier,1,1,8,80,640,0,0
+2024-12-03,Tuesday,Weekday,198,Kitchen Helper,1,1,9,65,585,0,0
+2024-12-03,Tuesday,Weekday,198,Delivery/Runner,1,1,9,65,585,0,0
+2024-12-04,Wednesday,Weekday,192,Head Chef,1,1,10,220,2200,0,0
+2024-12-04,Wednesday,Weekday,192,Sous Chef,1,1,8,160,1280,0,0
+2024-12-04,Wednesday,Weekday,192,Line Cook,2,2,8,100,1600,0,0
+2024-12-04,Wednesday,Weekday,192,Barista,1,2,8,90,1440,0,0
+2024-12-04,Wednesday,Weekday,192,Waiter/Waitress,3,3,9,75,2025,0,0
+2024-12-04,Wednesday,Weekday,192,Cashier,1,1,9,80,720,0,0
+2024-12-04,Wednesday,Weekday,192,Kitchen Helper,1,1,10,65,650,0,0
+2024-12-04,Wednesday,Weekday,192,Delivery/Runner,1,2,9,65,1170,0,0
+2024-12-05,Thursday,Weekday,201,Head Chef,1,1,10,220,2200,0,0
+2024-12-05,Thursday,Weekday,201,Sous Chef,1,1,9,160,1440,0,0
+2024-12-05,Thursday,Weekday,201,Line Cook,3,3,10,100,3000,0,0
+2024-12-05,Thursday,Weekday,201,Barista,2,3,9,90,2430,0,0
+2024-12-05,Thursday,Weekday,201,Waiter/Waitress,4,4,8,75,2400,0,0
+2024-12-05,Thursday,Weekday,201,Cashier,1,1,9,80,720,0,0
+2024-12-05,Thursday,Weekday,201,Kitchen Helper,2,2,9,65,1170,0,0
+2024-12-05,Thursday,Weekday,201,Delivery/Runner,2,3,10,65,1950,0,0
+2024-12-06,Friday,Weekend,277,Head Chef,1,2,9,220,3960,0,0
+2024-12-06,Friday,Weekend,277,Sous Chef,1,1,8,160,1280,0,0
+2024-12-06,Friday,Weekend,277,Line Cook,3,3,8,100,2400,0,0
+2024-12-06,Friday,Weekend,277,Barista,2,3,10,90,2700,0,0
+2024-12-06,Friday,Weekend,277,Waiter/Waitress,5,6,10,75,4500,0,0
+2024-12-06,Friday,Weekend,277,Cashier,1,1,8,80,640,0,0
+2024-12-06,Friday,Weekend,277,Kitchen Helper,2,2,8,65,1040,0,0
+2024-12-06,Friday,Weekend,277,Delivery/Runner,2,3,9,65,1755,0,0
+2024-12-07,Saturday,Weekend,266,Head Chef,1,1,10,220,2200,0,0
+2024-12-07,Saturday,Weekend,266,Sous Chef,1,1,9,160,1440,0,0
+2024-12-07,Saturday,Weekend,266,Line Cook,3,3,8,100,2400,0,0
+2024-12-07,Saturday,Weekend,266,Barista,2,2,8,90,1440,0,0
+2024-12-07,Saturday,Weekend,266,Waiter/Waitress,5,5,10,75,3750,0,0
+2024-12-07,Saturday,Weekend,266,Cashier,1,2,9,80,1440,0,0
+2024-12-07,Saturday,Weekend,266,Kitchen Helper,2,3,9,65,1755,0,0
+2024-12-07,Saturday,Weekend,266,Delivery/Runner,2,2,10,65,1300,0,0
+2024-12-08,Sunday,Weekend,298,Head Chef,1,1,10,220,2200,0,0
+2024-12-08,Sunday,Weekend,298,Sous Chef,1,2,8,160,2560,0,0
+2024-12-08,Sunday,Weekend,298,Line Cook,3,4,9,100,3600,0,0
+2024-12-08,Sunday,Weekend,298,Barista,2,2,8,90,1440,0,0
+2024-12-08,Sunday,Weekend,298,Waiter/Waitress,5,5,8,75,3000,0,0
+2024-12-08,Sunday,Weekend,298,Cashier,1,1,8,80,640,0,0
+2024-12-08,Sunday,Weekend,298,Kitchen Helper,2,2,8,65,1040,0,0
+2024-12-08,Sunday,Weekend,298,Delivery/Runner,2,1,9,65,585,0,1
+2024-12-09,Monday,Weekday,216,Head Chef,1,1,10,220,2200,0,0
+2024-12-09,Monday,Weekday,216,Sous Chef,1,1,9,160,1440,0,0
+2024-12-09,Monday,Weekday,216,Line Cook,3,4,9,100,3600,0,0
+2024-12-09,Monday,Weekday,216,Barista,2,2,10,90,1800,0,0
+2024-12-09,Monday,Weekday,216,Waiter/Waitress,4,3,10,75,2250,0,1
+2024-12-09,Monday,Weekday,216,Cashier,1,1,9,80,720,0,0
+2024-12-09,Monday,Weekday,216,Kitchen Helper,2,3,10,65,1950,0,0
+2024-12-09,Monday,Weekday,216,Delivery/Runner,2,2,9,65,1170,0,0
+2024-12-10,Tuesday,Weekday,188,Head Chef,1,1,9,220,1980,0,0
+2024-12-10,Tuesday,Weekday,188,Sous Chef,1,1,8,160,1280,0,0
+2024-12-10,Tuesday,Weekday,188,Line Cook,2,2,10,100,2000,0,0
+2024-12-10,Tuesday,Weekday,188,Barista,1,2,8,90,1440,0,0
+2024-12-10,Tuesday,Weekday,188,Waiter/Waitress,3,3,9,75,2025,0,0
+2024-12-10,Tuesday,Weekday,188,Cashier,1,1,10,80,800,0,0
+2024-12-10,Tuesday,Weekday,188,Kitchen Helper,1,1,8,65,520,0,0
+2024-12-10,Tuesday,Weekday,188,Delivery/Runner,1,1,10,65,650,0,0
+2024-12-11,Wednesday,Weekday,182,Head Chef,1,1,10,220,2200,0,0
+2024-12-11,Wednesday,Weekday,182,Sous Chef,1,1,10,160,1600,0,0
+2024-12-11,Wednesday,Weekday,182,Line Cook,2,3,9,100,2700,0,0
+2024-12-11,Wednesday,Weekday,182,Barista,1,1,9,90,810,0,0
+2024-12-11,Wednesday,Weekday,182,Waiter/Waitress,3,3,10,75,2250,0,0
+2024-12-11,Wednesday,Weekday,182,Cashier,1,1,8,80,640,0,0
+2024-12-11,Wednesday,Weekday,182,Kitchen Helper,1,1,8,65,520,0,0
+2024-12-11,Wednesday,Weekday,182,Delivery/Runner,1,1,10,65,650,0,0
+2024-12-12,Thursday,Weekday,221,Head Chef,1,1,10,220,2200,0,0
+2024-12-12,Thursday,Weekday,221,Sous Chef,1,2,8,160,2560,0,0
+2024-12-12,Thursday,Weekday,221,Line Cook,3,3,8,100,2400,0,0
+2024-12-12,Thursday,Weekday,221,Barista,2,2,8,90,1440,0,0
+2024-12-12,Thursday,Weekday,221,Waiter/Waitress,4,5,9,75,3375,0,0
+2024-12-12,Thursday,Weekday,221,Cashier,1,1,10,80,800,0,0
+2024-12-12,Thursday,Weekday,221,Kitchen Helper,2,2,8,65,1040,0,0
+2024-12-12,Thursday,Weekday,221,Delivery/Runner,2,2,9,65,1170,0,0
+2024-12-13,Friday,Weekend,292,Head Chef,1,2,9,220,3960,0,0
+2024-12-13,Friday,Weekend,292,Sous Chef,1,1,9,160,1440,0,0
+2024-12-13,Friday,Weekend,292,Line Cook,3,3,9,100,2700,0,0
+2024-12-13,Friday,Weekend,292,Barista,2,2,9,90,1620,0,0
+2024-12-13,Friday,Weekend,292,Waiter/Waitress,5,5,8,75,3000,0,0
+2024-12-13,Friday,Weekend,292,Cashier,1,1,8,80,640,0,0
+2024-12-13,Friday,Weekend,292,Kitchen Helper,2,2,10,65,1300,0,0
+2024-12-13,Friday,Weekend,292,Delivery/Runner,2,2,10,65,1300,0,0
+2024-12-14,Saturday,Weekend,268,Head Chef,1,1,8,220,1760,0,0
+2024-12-14,Saturday,Weekend,268,Sous Chef,1,1,9,160,1440,0,0
+2024-12-14,Saturday,Weekend,268,Line Cook,3,4,9,100,3600,0,0
+2024-12-14,Saturday,Weekend,268,Barista,2,3,8,90,2160,0,0
+2024-12-14,Saturday,Weekend,268,Waiter/Waitress,5,4,8,75,2400,0,1
+2024-12-14,Saturday,Weekend,268,Cashier,1,1,9,80,720,0,0
+2024-12-14,Saturday,Weekend,268,Kitchen Helper,2,2,9,65,1170,0,0
+2024-12-14,Saturday,Weekend,268,Delivery/Runner,2,2,10,65,1300,0,0
+2024-12-15,Sunday,Weekend,298,Head Chef,1,2,10,220,4400,0,0
+2024-12-15,Sunday,Weekend,298,Sous Chef,1,2,10,160,3200,0,0
+2024-12-15,Sunday,Weekend,298,Line Cook,3,3,8,100,2400,0,0
+2024-12-15,Sunday,Weekend,298,Barista,2,2,8,90,1440,0,0
+2024-12-15,Sunday,Weekend,298,Waiter/Waitress,5,5,10,75,3750,0,0
+2024-12-15,Sunday,Weekend,298,Cashier,1,1,9,80,720,0,0
+2024-12-15,Sunday,Weekend,298,Kitchen Helper,2,3,9,65,1755,0,0
+2024-12-15,Sunday,Weekend,298,Delivery/Runner,2,2,10,65,1300,0,0
+2024-12-16,Monday,Weekday,189,Head Chef,1,1,10,220,2200,0,0
+2024-12-16,Monday,Weekday,189,Sous Chef,1,2,8,160,2560,0,0
+2024-12-16,Monday,Weekday,189,Line Cook,2,2,10,100,2000,0,0
+2024-12-16,Monday,Weekday,189,Barista,1,1,10,90,900,0,0
+2024-12-16,Monday,Weekday,189,Waiter/Waitress,3,3,9,75,2025,0,0
+2024-12-16,Monday,Weekday,189,Cashier,1,1,8,80,640,0,0
+2024-12-16,Monday,Weekday,189,Kitchen Helper,1,1,8,65,520,0,0
+2024-12-16,Monday,Weekday,189,Delivery/Runner,1,1,10,65,650,0,0
+2024-12-17,Tuesday,Weekday,202,Head Chef,1,1,8,220,1760,0,0
+2024-12-17,Tuesday,Weekday,202,Sous Chef,1,1,8,160,1280,0,0
+2024-12-17,Tuesday,Weekday,202,Line Cook,3,2,9,100,1800,0,1
+2024-12-17,Tuesday,Weekday,202,Barista,2,2,8,90,1440,0,0
+2024-12-17,Tuesday,Weekday,202,Waiter/Waitress,4,4,8,75,2400,0,0
+2024-12-17,Tuesday,Weekday,202,Cashier,1,1,10,80,800,0,0
+2024-12-17,Tuesday,Weekday,202,Kitchen Helper,2,2,10,65,1300,0,0
+2024-12-17,Tuesday,Weekday,202,Delivery/Runner,2,2,10,65,1300,0,0
+2024-12-18,Wednesday,Weekday,192,Head Chef,1,1,9,220,1980,0,0
+2024-12-18,Wednesday,Weekday,192,Sous Chef,1,1,8,160,1280,0,0
+2024-12-18,Wednesday,Weekday,192,Line Cook,2,2,10,100,2000,0,0
+2024-12-18,Wednesday,Weekday,192,Barista,1,1,9,90,810,0,0
+2024-12-18,Wednesday,Weekday,192,Waiter/Waitress,3,4,8,75,2400,0,0
+2024-12-18,Wednesday,Weekday,192,Cashier,1,1,8,80,640,0,0
+2024-12-18,Wednesday,Weekday,192,Kitchen Helper,1,1,9,65,585,0,0
+2024-12-18,Wednesday,Weekday,192,Delivery/Runner,1,1,9,65,585,0,0
+2024-12-19,Thursday,Weekday,202,Head Chef,1,1,8,220,1760,0,0
+2024-12-19,Thursday,Weekday,202,Sous Chef,1,2,9,160,2880,0,0
+2024-12-19,Thursday,Weekday,202,Line Cook,3,2,9,100,1800,0,1
+2024-12-19,Thursday,Weekday,202,Barista,2,2,8,90,1440,0,0
+2024-12-19,Thursday,Weekday,202,Waiter/Waitress,4,3,9,75,2025,0,1
+2024-12-19,Thursday,Weekday,202,Cashier,1,1,10,80,800,0,0
+2024-12-19,Thursday,Weekday,202,Kitchen Helper,2,1,8,65,520,0,1
+2024-12-19,Thursday,Weekday,202,Delivery/Runner,2,1,9,65,585,0,1
+2024-12-20,Friday,Weekend,276,Head Chef,1,1,8,220,1760,0,0
+2024-12-20,Friday,Weekend,276,Sous Chef,1,1,9,160,1440,0,0
+2024-12-20,Friday,Weekend,276,Line Cook,3,3,8,100,2400,0,0
+2024-12-20,Friday,Weekend,276,Barista,2,2,8,90,1440,0,0
+2024-12-20,Friday,Weekend,276,Waiter/Waitress,5,5,8,75,3000,0,0
+2024-12-20,Friday,Weekend,276,Cashier,1,1,8,80,640,0,0
+2024-12-20,Friday,Weekend,276,Kitchen Helper,2,2,8,65,1040,0,0
+2024-12-20,Friday,Weekend,276,Delivery/Runner,2,2,8,65,1040,0,0
+2024-12-21,Saturday,Weekend,304,Head Chef,1,1,8,220,1760,0,0
+2024-12-21,Saturday,Weekend,304,Sous Chef,1,2,8,160,2560,0,0
+2024-12-21,Saturday,Weekend,304,Line Cook,3,4,8,100,3200,0,0
+2024-12-21,Saturday,Weekend,304,Barista,2,2,8,90,1440,0,0
+2024-12-21,Saturday,Weekend,304,Waiter/Waitress,5,4,9,75,2700,0,1
+2024-12-21,Saturday,Weekend,304,Cashier,1,1,10,80,800,0,0
+2024-12-21,Saturday,Weekend,304,Kitchen Helper,2,2,8,65,1040,0,0
+2024-12-21,Saturday,Weekend,304,Delivery/Runner,2,2,10,65,1300,0,0
+2024-12-22,Sunday,Weekend,290,Head Chef,1,1,8,220,1760,0,0
+2024-12-22,Sunday,Weekend,290,Sous Chef,1,1,10,160,1600,0,0
+2024-12-22,Sunday,Weekend,290,Line Cook,3,2,9,100,1800,0,1
+2024-12-22,Sunday,Weekend,290,Barista,2,2,8,90,1440,0,0
+2024-12-22,Sunday,Weekend,290,Waiter/Waitress,5,5,9,75,3375,0,0
+2024-12-22,Sunday,Weekend,290,Cashier,1,1,8,80,640,0,0
+2024-12-22,Sunday,Weekend,290,Kitchen Helper,2,2,10,65,1300,0,0
+2024-12-22,Sunday,Weekend,290,Delivery/Runner,2,1,8,65,520,0,1
+2024-12-23,Monday,Weekday,195,Head Chef,1,1,9,220,1980,0,0
+2024-12-23,Monday,Weekday,195,Sous Chef,1,2,10,160,3200,0,0
+2024-12-23,Monday,Weekday,195,Line Cook,2,2,10,100,2000,0,0
+2024-12-23,Monday,Weekday,195,Barista,1,1,10,90,900,0,0
+2024-12-23,Monday,Weekday,195,Waiter/Waitress,3,3,10,75,2250,0,0
+2024-12-23,Monday,Weekday,195,Cashier,1,1,8,80,640,0,0
+2024-12-23,Monday,Weekday,195,Kitchen Helper,1,1,10,65,650,0,0
+2024-12-23,Monday,Weekday,195,Delivery/Runner,1,1,8,65,520,0,0
+2024-12-24,Tuesday,Weekday,233,Head Chef,1,1,10,220,2200,0,0
+2024-12-24,Tuesday,Weekday,233,Sous Chef,1,1,9,160,1440,0,0
+2024-12-24,Tuesday,Weekday,233,Line Cook,3,3,9,100,2700,0,0
+2024-12-24,Tuesday,Weekday,233,Barista,2,2,8,90,1440,0,0
+2024-12-24,Tuesday,Weekday,233,Waiter/Waitress,4,4,8,75,2400,0,0
+2024-12-24,Tuesday,Weekday,233,Cashier,1,1,9,80,720,0,0
+2024-12-24,Tuesday,Weekday,233,Kitchen Helper,2,2,10,65,1300,0,0
+2024-12-24,Tuesday,Weekday,233,Delivery/Runner,2,2,9,65,1170,0,0
+2024-12-25,Wednesday,Weekday,198,Head Chef,1,1,10,220,2200,0,0
+2024-12-25,Wednesday,Weekday,198,Sous Chef,1,1,10,160,1600,0,0
+2024-12-25,Wednesday,Weekday,198,Line Cook,2,3,9,100,2700,0,0
+2024-12-25,Wednesday,Weekday,198,Barista,1,1,9,90,810,0,0
+2024-12-25,Wednesday,Weekday,198,Waiter/Waitress,3,3,10,75,2250,0,0
+2024-12-25,Wednesday,Weekday,198,Cashier,1,1,8,80,640,0,0
+2024-12-25,Wednesday,Weekday,198,Kitchen Helper,1,1,10,65,650,0,0
+2024-12-25,Wednesday,Weekday,198,Delivery/Runner,1,2,9,65,1170,0,0
+2024-12-26,Thursday,Weekday,207,Head Chef,1,1,10,220,2200,0,0
+2024-12-26,Thursday,Weekday,207,Sous Chef,1,1,10,160,1600,0,0
+2024-12-26,Thursday,Weekday,207,Line Cook,3,3,9,100,2700,0,0
+2024-12-26,Thursday,Weekday,207,Barista,2,2,10,90,1800,0,0
+2024-12-26,Thursday,Weekday,207,Waiter/Waitress,4,5,8,75,3000,0,0
+2024-12-26,Thursday,Weekday,207,Cashier,1,1,9,80,720,0,0
+2024-12-26,Thursday,Weekday,207,Kitchen Helper,2,2,9,65,1170,0,0
+2024-12-26,Thursday,Weekday,207,Delivery/Runner,2,3,9,65,1755,0,0
+2024-12-27,Friday,Weekend,289,Head Chef,1,1,9,220,1980,0,0
+2024-12-27,Friday,Weekend,289,Sous Chef,1,1,8,160,1280,0,0
+2024-12-27,Friday,Weekend,289,Line Cook,3,3,10,100,3000,0,0
+2024-12-27,Friday,Weekend,289,Barista,2,2,9,90,1620,0,0
+2024-12-27,Friday,Weekend,289,Waiter/Waitress,5,5,9,75,3375,0,0
+2024-12-27,Friday,Weekend,289,Cashier,1,1,8,80,640,0,0
+2024-12-27,Friday,Weekend,289,Kitchen Helper,2,3,8,65,1560,0,0
+2024-12-27,Friday,Weekend,289,Delivery/Runner,2,1,10,65,650,0,1
+2024-12-28,Saturday,Weekend,279,Head Chef,1,1,9,220,1980,0,0
+2024-12-28,Saturday,Weekend,279,Sous Chef,1,1,9,160,1440,0,0
+2024-12-28,Saturday,Weekend,279,Line Cook,3,4,10,100,4000,0,0
+2024-12-28,Saturday,Weekend,279,Barista,2,2,10,90,1800,0,0
+2024-12-28,Saturday,Weekend,279,Waiter/Waitress,5,6,9,75,4050,0,0
+2024-12-28,Saturday,Weekend,279,Cashier,1,1,9,80,720,0,0
+2024-12-28,Saturday,Weekend,279,Kitchen Helper,2,2,8,65,1040,0,0
+2024-12-28,Saturday,Weekend,279,Delivery/Runner,2,3,8,65,1560,0,0
+2024-12-29,Sunday,Weekend,303,Head Chef,1,2,10,220,4400,0,0
+2024-12-29,Sunday,Weekend,303,Sous Chef,1,1,8,160,1280,0,0
+2024-12-29,Sunday,Weekend,303,Line Cook,3,2,9,100,1800,0,1
+2024-12-29,Sunday,Weekend,303,Barista,2,1,10,90,900,0,1
+2024-12-29,Sunday,Weekend,303,Waiter/Waitress,5,5,9,75,3375,0,0
+2024-12-29,Sunday,Weekend,303,Cashier,1,1,10,80,800,0,0
+2024-12-29,Sunday,Weekend,303,Kitchen Helper,2,3,8,65,1560,0,0
+2024-12-29,Sunday,Weekend,303,Delivery/Runner,2,2,9,65,1170,0,0
+2024-12-30,Monday,Weekday,201,Head Chef,1,1,8,220,1760,0,0
+2024-12-30,Monday,Weekday,201,Sous Chef,1,1,8,160,1280,0,0
+2024-12-30,Monday,Weekday,201,Line Cook,3,3,9,100,2700,0,0
+2024-12-30,Monday,Weekday,201,Barista,2,2,8,90,1440,0,0
+2024-12-30,Monday,Weekday,201,Waiter/Waitress,4,3,8,75,1800,0,1
+2024-12-30,Monday,Weekday,201,Cashier,1,1,10,80,800,0,0
+2024-12-30,Monday,Weekday,201,Kitchen Helper,2,1,8,65,520,0,1
+2024-12-30,Monday,Weekday,201,Delivery/Runner,2,2,8,65,1040,0,0
+2024-12-31,Tuesday,Weekday,192,Head Chef,1,1,8,220,1760,0,0
+2024-12-31,Tuesday,Weekday,192,Sous Chef,1,2,9,160,2880,0,0
+2024-12-31,Tuesday,Weekday,192,Line Cook,2,3,10,100,3000,0,0
+2024-12-31,Tuesday,Weekday,192,Barista,1,1,9,90,810,0,0
+2024-12-31,Tuesday,Weekday,192,Waiter/Waitress,3,3,8,75,1800,0,0
+2024-12-31,Tuesday,Weekday,192,Cashier,1,1,9,80,720,0,0
+2024-12-31,Tuesday,Weekday,192,Kitchen Helper,1,2,9,65,1170,0,0
+2024-12-31,Tuesday,Weekday,192,Delivery/Runner,1,1,10,65,650,0,0
+2025-01-01,Wednesday,Weekday,199,Head Chef,1,1,8,220,1760,0,0
+2025-01-01,Wednesday,Weekday,199,Sous Chef,1,1,9,160,1440,0,0
+2025-01-01,Wednesday,Weekday,199,Line Cook,2,3,10,100,3000,0,0
+2025-01-01,Wednesday,Weekday,199,Barista,1,1,10,90,900,0,0
+2025-01-01,Wednesday,Weekday,199,Waiter/Waitress,3,4,8,75,2400,0,0
+2025-01-01,Wednesday,Weekday,199,Cashier,1,1,8,80,640,0,0
+2025-01-01,Wednesday,Weekday,199,Kitchen Helper,1,2,8,65,1040,0,0
+2025-01-01,Wednesday,Weekday,199,Delivery/Runner,1,2,9,65,1170,0,0
+2025-01-02,Thursday,Weekday,189,Head Chef,1,1,9,220,1980,0,0
+2025-01-02,Thursday,Weekday,189,Sous Chef,1,1,10,160,1600,0,0
+2025-01-02,Thursday,Weekday,189,Line Cook,2,2,10,100,2000,0,0
+2025-01-02,Thursday,Weekday,189,Barista,1,1,8,90,720,0,0
+2025-01-02,Thursday,Weekday,189,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-01-02,Thursday,Weekday,189,Cashier,1,2,8,80,1280,0,0
+2025-01-02,Thursday,Weekday,189,Kitchen Helper,1,1,9,65,585,0,0
+2025-01-02,Thursday,Weekday,189,Delivery/Runner,1,1,9,65,585,0,0
+2025-01-03,Friday,Weekend,294,Head Chef,1,1,10,220,2200,0,0
+2025-01-03,Friday,Weekend,294,Sous Chef,1,1,8,160,1280,0,0
+2025-01-03,Friday,Weekend,294,Line Cook,3,3,10,100,3000,0,0
+2025-01-03,Friday,Weekend,294,Barista,2,3,10,90,2700,0,0
+2025-01-03,Friday,Weekend,294,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-01-03,Friday,Weekend,294,Cashier,1,1,10,80,800,0,0
+2025-01-03,Friday,Weekend,294,Kitchen Helper,2,2,8,65,1040,0,0
+2025-01-03,Friday,Weekend,294,Delivery/Runner,2,3,8,65,1560,0,0
+2025-01-04,Saturday,Weekend,300,Head Chef,1,2,9,220,3960,0,0
+2025-01-04,Saturday,Weekend,300,Sous Chef,1,2,9,160,2880,0,0
+2025-01-04,Saturday,Weekend,300,Line Cook,3,3,10,100,3000,0,0
+2025-01-04,Saturday,Weekend,300,Barista,2,2,8,90,1440,0,0
+2025-01-04,Saturday,Weekend,300,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-01-04,Saturday,Weekend,300,Cashier,1,1,10,80,800,0,0
+2025-01-04,Saturday,Weekend,300,Kitchen Helper,2,2,8,65,1040,0,0
+2025-01-04,Saturday,Weekend,300,Delivery/Runner,2,2,10,65,1300,0,0
+2025-01-05,Sunday,Weekend,279,Head Chef,1,1,10,220,2200,0,0
+2025-01-05,Sunday,Weekend,279,Sous Chef,1,1,8,160,1280,0,0
+2025-01-05,Sunday,Weekend,279,Line Cook,3,3,8,100,2400,0,0
+2025-01-05,Sunday,Weekend,279,Barista,2,2,10,90,1800,0,0
+2025-01-05,Sunday,Weekend,279,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-01-05,Sunday,Weekend,279,Cashier,1,2,8,80,1280,0,0
+2025-01-05,Sunday,Weekend,279,Kitchen Helper,2,3,8,65,1560,0,0
+2025-01-05,Sunday,Weekend,279,Delivery/Runner,2,3,8,65,1560,0,0
+2025-01-06,Monday,Weekday,205,Head Chef,1,2,9,220,3960,0,0
+2025-01-06,Monday,Weekday,205,Sous Chef,1,1,8,160,1280,0,0
+2025-01-06,Monday,Weekday,205,Line Cook,3,3,10,100,3000,0,0
+2025-01-06,Monday,Weekday,205,Barista,2,1,9,90,810,0,1
+2025-01-06,Monday,Weekday,205,Waiter/Waitress,4,5,9,75,3375,0,0
+2025-01-06,Monday,Weekday,205,Cashier,1,1,9,80,720,0,0
+2025-01-06,Monday,Weekday,205,Kitchen Helper,2,2,10,65,1300,0,0
+2025-01-06,Monday,Weekday,205,Delivery/Runner,2,3,9,65,1755,0,0
+2025-01-07,Tuesday,Weekday,216,Head Chef,1,1,10,220,2200,0,0
+2025-01-07,Tuesday,Weekday,216,Sous Chef,1,1,8,160,1280,0,0
+2025-01-07,Tuesday,Weekday,216,Line Cook,3,4,8,100,3200,0,0
+2025-01-07,Tuesday,Weekday,216,Barista,2,2,9,90,1620,0,0
+2025-01-07,Tuesday,Weekday,216,Waiter/Waitress,4,4,8,75,2400,0,0
+2025-01-07,Tuesday,Weekday,216,Cashier,1,1,9,80,720,0,0
+2025-01-07,Tuesday,Weekday,216,Kitchen Helper,2,1,10,65,650,0,1
+2025-01-07,Tuesday,Weekday,216,Delivery/Runner,2,2,9,65,1170,0,0
+2025-01-08,Wednesday,Weekday,179,Head Chef,1,1,8,220,1760,0,0
+2025-01-08,Wednesday,Weekday,179,Sous Chef,1,1,9,160,1440,0,0
+2025-01-08,Wednesday,Weekday,179,Line Cook,2,2,9,100,1800,0,0
+2025-01-08,Wednesday,Weekday,179,Barista,1,1,9,90,810,0,0
+2025-01-08,Wednesday,Weekday,179,Waiter/Waitress,3,4,10,75,3000,0,0
+2025-01-08,Wednesday,Weekday,179,Cashier,1,2,10,80,1600,0,0
+2025-01-08,Wednesday,Weekday,179,Kitchen Helper,1,1,8,65,520,0,0
+2025-01-08,Wednesday,Weekday,179,Delivery/Runner,1,1,10,65,650,0,0
+2025-01-09,Thursday,Weekday,173,Head Chef,1,2,8,220,3520,0,0
+2025-01-09,Thursday,Weekday,173,Sous Chef,1,1,8,160,1280,0,0
+2025-01-09,Thursday,Weekday,173,Line Cook,2,2,8,100,1600,0,0
+2025-01-09,Thursday,Weekday,173,Barista,1,1,8,90,720,0,0
+2025-01-09,Thursday,Weekday,173,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-01-09,Thursday,Weekday,173,Cashier,1,1,10,80,800,0,0
+2025-01-09,Thursday,Weekday,173,Kitchen Helper,1,1,8,65,520,0,0
+2025-01-09,Thursday,Weekday,173,Delivery/Runner,1,1,8,65,520,0,0
+2025-01-10,Friday,Weekend,285,Head Chef,1,1,8,220,1760,0,0
+2025-01-10,Friday,Weekend,285,Sous Chef,1,1,8,160,1280,0,0
+2025-01-10,Friday,Weekend,285,Line Cook,3,2,10,100,2000,0,1
+2025-01-10,Friday,Weekend,285,Barista,2,2,9,90,1620,0,0
+2025-01-10,Friday,Weekend,285,Waiter/Waitress,5,4,9,75,2700,0,1
+2025-01-10,Friday,Weekend,285,Cashier,1,1,8,80,640,0,0
+2025-01-10,Friday,Weekend,285,Kitchen Helper,2,2,9,65,1170,0,0
+2025-01-10,Friday,Weekend,285,Delivery/Runner,2,2,10,65,1300,0,0
+2025-01-11,Saturday,Weekend,282,Head Chef,1,1,9,220,1980,0,0
+2025-01-11,Saturday,Weekend,282,Sous Chef,1,2,8,160,2560,0,0
+2025-01-11,Saturday,Weekend,282,Line Cook,3,3,8,100,2400,0,0
+2025-01-11,Saturday,Weekend,282,Barista,2,1,10,90,900,0,1
+2025-01-11,Saturday,Weekend,282,Waiter/Waitress,5,4,9,75,2700,0,1
+2025-01-11,Saturday,Weekend,282,Cashier,1,1,8,80,640,0,0
+2025-01-11,Saturday,Weekend,282,Kitchen Helper,2,2,8,65,1040,0,0
+2025-01-11,Saturday,Weekend,282,Delivery/Runner,2,2,10,65,1300,0,0
+2025-01-12,Sunday,Weekend,264,Head Chef,1,2,9,220,3960,0,0
+2025-01-12,Sunday,Weekend,264,Sous Chef,1,2,9,160,2880,0,0
+2025-01-12,Sunday,Weekend,264,Line Cook,3,3,10,100,3000,0,0
+2025-01-12,Sunday,Weekend,264,Barista,2,1,9,90,810,0,1
+2025-01-12,Sunday,Weekend,264,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-01-12,Sunday,Weekend,264,Cashier,1,1,8,80,640,0,0
+2025-01-12,Sunday,Weekend,264,Kitchen Helper,2,1,8,65,520,0,1
+2025-01-12,Sunday,Weekend,264,Delivery/Runner,2,1,8,65,520,0,1
+2025-01-13,Monday,Weekday,195,Head Chef,1,1,9,220,1980,0,0
+2025-01-13,Monday,Weekday,195,Sous Chef,1,1,10,160,1600,0,0
+2025-01-13,Monday,Weekday,195,Line Cook,2,2,8,100,1600,0,0
+2025-01-13,Monday,Weekday,195,Barista,1,2,9,90,1620,0,0
+2025-01-13,Monday,Weekday,195,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-01-13,Monday,Weekday,195,Cashier,1,1,10,80,800,0,0
+2025-01-13,Monday,Weekday,195,Kitchen Helper,1,2,10,65,1300,0,0
+2025-01-13,Monday,Weekday,195,Delivery/Runner,1,2,9,65,1170,0,0
+2025-01-14,Tuesday,Weekday,201,Head Chef,1,1,8,220,1760,0,0
+2025-01-14,Tuesday,Weekday,201,Sous Chef,1,1,10,160,1600,0,0
+2025-01-14,Tuesday,Weekday,201,Line Cook,3,2,10,100,2000,0,1
+2025-01-14,Tuesday,Weekday,201,Barista,2,2,9,90,1620,0,0
+2025-01-14,Tuesday,Weekday,201,Waiter/Waitress,4,3,9,75,2025,0,1
+2025-01-14,Tuesday,Weekday,201,Cashier,1,1,8,80,640,0,0
+2025-01-14,Tuesday,Weekday,201,Kitchen Helper,2,3,9,65,1755,0,0
+2025-01-14,Tuesday,Weekday,201,Delivery/Runner,2,1,9,65,585,0,1
+2025-01-15,Wednesday,Weekday,176,Head Chef,1,1,8,220,1760,0,0
+2025-01-15,Wednesday,Weekday,176,Sous Chef,1,1,9,160,1440,0,0
+2025-01-15,Wednesday,Weekday,176,Line Cook,2,2,10,100,2000,0,0
+2025-01-15,Wednesday,Weekday,176,Barista,1,1,10,90,900,0,0
+2025-01-15,Wednesday,Weekday,176,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-01-15,Wednesday,Weekday,176,Cashier,1,1,8,80,640,0,0
+2025-01-15,Wednesday,Weekday,176,Kitchen Helper,1,2,8,65,1040,0,0
+2025-01-15,Wednesday,Weekday,176,Delivery/Runner,1,1,8,65,520,0,0
+2025-01-16,Thursday,Weekday,226,Head Chef,1,1,9,220,1980,0,0
+2025-01-16,Thursday,Weekday,226,Sous Chef,1,2,9,160,2880,0,0
+2025-01-16,Thursday,Weekday,226,Line Cook,3,4,9,100,3600,0,0
+2025-01-16,Thursday,Weekday,226,Barista,2,3,9,90,2430,0,0
+2025-01-16,Thursday,Weekday,226,Waiter/Waitress,4,3,8,75,1800,0,1
+2025-01-16,Thursday,Weekday,226,Cashier,1,1,9,80,720,0,0
+2025-01-16,Thursday,Weekday,226,Kitchen Helper,2,1,8,65,520,0,1
+2025-01-16,Thursday,Weekday,226,Delivery/Runner,2,2,10,65,1300,0,0
+2025-01-17,Friday,Weekend,295,Head Chef,1,2,8,220,3520,0,0
+2025-01-17,Friday,Weekend,295,Sous Chef,1,1,9,160,1440,0,0
+2025-01-17,Friday,Weekend,295,Line Cook,3,3,9,100,2700,0,0
+2025-01-17,Friday,Weekend,295,Barista,2,2,10,90,1800,0,0
+2025-01-17,Friday,Weekend,295,Waiter/Waitress,5,6,8,75,3600,0,0
+2025-01-17,Friday,Weekend,295,Cashier,1,1,10,80,800,0,0
+2025-01-17,Friday,Weekend,295,Kitchen Helper,2,2,8,65,1040,0,0
+2025-01-17,Friday,Weekend,295,Delivery/Runner,2,3,8,65,1560,0,0
+2025-01-18,Saturday,Weekend,318,Head Chef,1,1,8,220,1760,0,0
+2025-01-18,Saturday,Weekend,318,Sous Chef,1,1,9,160,1440,0,0
+2025-01-18,Saturday,Weekend,318,Line Cook,3,4,8,100,3200,0,0
+2025-01-18,Saturday,Weekend,318,Barista,2,1,9,90,810,0,1
+2025-01-18,Saturday,Weekend,318,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-01-18,Saturday,Weekend,318,Cashier,1,1,8,80,640,0,0
+2025-01-18,Saturday,Weekend,318,Kitchen Helper,2,3,10,65,1950,0,0
+2025-01-18,Saturday,Weekend,318,Delivery/Runner,2,1,8,65,520,0,1
+2025-01-19,Sunday,Weekend,273,Head Chef,1,2,8,220,3520,0,0
+2025-01-19,Sunday,Weekend,273,Sous Chef,1,1,9,160,1440,0,0
+2025-01-19,Sunday,Weekend,273,Line Cook,3,4,10,100,4000,0,0
+2025-01-19,Sunday,Weekend,273,Barista,2,2,9,90,1620,0,0
+2025-01-19,Sunday,Weekend,273,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-01-19,Sunday,Weekend,273,Cashier,1,1,9,80,720,0,0
+2025-01-19,Sunday,Weekend,273,Kitchen Helper,2,2,10,65,1300,0,0
+2025-01-19,Sunday,Weekend,273,Delivery/Runner,2,1,10,65,650,0,1
+2025-01-20,Monday,Weekday,194,Head Chef,1,1,9,220,1980,0,0
+2025-01-20,Monday,Weekday,194,Sous Chef,1,1,10,160,1600,0,0
+2025-01-20,Monday,Weekday,194,Line Cook,2,2,8,100,1600,0,0
+2025-01-20,Monday,Weekday,194,Barista,1,1,9,90,810,0,0
+2025-01-20,Monday,Weekday,194,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-01-20,Monday,Weekday,194,Cashier,1,1,8,80,640,0,0
+2025-01-20,Monday,Weekday,194,Kitchen Helper,1,1,10,65,650,0,0
+2025-01-20,Monday,Weekday,194,Delivery/Runner,1,1,10,65,650,0,0
+2025-01-21,Tuesday,Weekday,228,Head Chef,1,2,10,220,4400,0,0
+2025-01-21,Tuesday,Weekday,228,Sous Chef,1,2,8,160,2560,0,0
+2025-01-21,Tuesday,Weekday,228,Line Cook,3,4,10,100,4000,0,0
+2025-01-21,Tuesday,Weekday,228,Barista,2,2,10,90,1800,0,0
+2025-01-21,Tuesday,Weekday,228,Waiter/Waitress,4,4,10,75,3000,0,0
+2025-01-21,Tuesday,Weekday,228,Cashier,1,2,8,80,1280,0,0
+2025-01-21,Tuesday,Weekday,228,Kitchen Helper,2,2,10,65,1300,0,0
+2025-01-21,Tuesday,Weekday,228,Delivery/Runner,2,1,8,65,520,0,1
+2025-01-22,Wednesday,Weekday,196,Head Chef,1,2,9,220,3960,0,0
+2025-01-22,Wednesday,Weekday,196,Sous Chef,1,1,8,160,1280,0,0
+2025-01-22,Wednesday,Weekday,196,Line Cook,2,3,8,100,2400,0,0
+2025-01-22,Wednesday,Weekday,196,Barista,1,1,10,90,900,0,0
+2025-01-22,Wednesday,Weekday,196,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-01-22,Wednesday,Weekday,196,Cashier,1,2,8,80,1280,0,0
+2025-01-22,Wednesday,Weekday,196,Kitchen Helper,1,1,10,65,650,0,0
+2025-01-22,Wednesday,Weekday,196,Delivery/Runner,1,1,8,65,520,0,0
+2025-01-23,Thursday,Weekday,194,Head Chef,1,1,10,220,2200,0,0
+2025-01-23,Thursday,Weekday,194,Sous Chef,1,1,8,160,1280,0,0
+2025-01-23,Thursday,Weekday,194,Line Cook,2,3,10,100,3000,0,0
+2025-01-23,Thursday,Weekday,194,Barista,1,1,8,90,720,0,0
+2025-01-23,Thursday,Weekday,194,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-01-23,Thursday,Weekday,194,Cashier,1,1,10,80,800,0,0
+2025-01-23,Thursday,Weekday,194,Kitchen Helper,1,2,10,65,1300,0,0
+2025-01-23,Thursday,Weekday,194,Delivery/Runner,1,1,9,65,585,0,0
+2025-01-24,Friday,Weekend,278,Head Chef,1,2,10,220,4400,0,0
+2025-01-24,Friday,Weekend,278,Sous Chef,1,1,8,160,1280,0,0
+2025-01-24,Friday,Weekend,278,Line Cook,3,3,9,100,2700,0,0
+2025-01-24,Friday,Weekend,278,Barista,2,1,10,90,900,0,1
+2025-01-24,Friday,Weekend,278,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-01-24,Friday,Weekend,278,Cashier,1,1,8,80,640,0,0
+2025-01-24,Friday,Weekend,278,Kitchen Helper,2,2,8,65,1040,0,0
+2025-01-24,Friday,Weekend,278,Delivery/Runner,2,3,10,65,1950,0,0
+2025-01-25,Saturday,Weekend,298,Head Chef,1,2,10,220,4400,0,0
+2025-01-25,Saturday,Weekend,298,Sous Chef,1,1,8,160,1280,0,0
+2025-01-25,Saturday,Weekend,298,Line Cook,3,3,9,100,2700,0,0
+2025-01-25,Saturday,Weekend,298,Barista,2,2,10,90,1800,0,0
+2025-01-25,Saturday,Weekend,298,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-01-25,Saturday,Weekend,298,Cashier,1,2,8,80,1280,0,0
+2025-01-25,Saturday,Weekend,298,Kitchen Helper,2,2,8,65,1040,0,0
+2025-01-25,Saturday,Weekend,298,Delivery/Runner,2,2,10,65,1300,0,0
+2025-01-26,Sunday,Weekend,274,Head Chef,1,2,9,220,3960,0,0
+2025-01-26,Sunday,Weekend,274,Sous Chef,1,2,8,160,2560,0,0
+2025-01-26,Sunday,Weekend,274,Line Cook,3,3,9,100,2700,0,0
+2025-01-26,Sunday,Weekend,274,Barista,2,2,8,90,1440,0,0
+2025-01-26,Sunday,Weekend,274,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-01-26,Sunday,Weekend,274,Cashier,1,1,8,80,640,0,0
+2025-01-26,Sunday,Weekend,274,Kitchen Helper,2,2,10,65,1300,0,0
+2025-01-26,Sunday,Weekend,274,Delivery/Runner,2,2,10,65,1300,0,0
+2025-01-27,Monday,Weekday,193,Head Chef,1,1,10,220,2200,0,0
+2025-01-27,Monday,Weekday,193,Sous Chef,1,1,9,160,1440,0,0
+2025-01-27,Monday,Weekday,193,Line Cook,2,2,8,100,1600,0,0
+2025-01-27,Monday,Weekday,193,Barista,1,1,9,90,810,0,0
+2025-01-27,Monday,Weekday,193,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-01-27,Monday,Weekday,193,Cashier,1,1,9,80,720,0,0
+2025-01-27,Monday,Weekday,193,Kitchen Helper,1,1,8,65,520,0,0
+2025-01-27,Monday,Weekday,193,Delivery/Runner,1,1,8,65,520,0,0
+2025-01-28,Tuesday,Weekday,187,Head Chef,1,1,8,220,1760,0,0
+2025-01-28,Tuesday,Weekday,187,Sous Chef,1,1,9,160,1440,0,0
+2025-01-28,Tuesday,Weekday,187,Line Cook,2,2,8,100,1600,0,0
+2025-01-28,Tuesday,Weekday,187,Barista,1,1,9,90,810,0,0
+2025-01-28,Tuesday,Weekday,187,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-01-28,Tuesday,Weekday,187,Cashier,1,1,9,80,720,0,0
+2025-01-28,Tuesday,Weekday,187,Kitchen Helper,1,1,10,65,650,0,0
+2025-01-28,Tuesday,Weekday,187,Delivery/Runner,1,1,9,65,585,0,0
+2025-01-29,Wednesday,Weekday,215,Head Chef,1,2,8,220,3520,0,0
+2025-01-29,Wednesday,Weekday,215,Sous Chef,1,1,9,160,1440,0,0
+2025-01-29,Wednesday,Weekday,215,Line Cook,3,3,8,100,2400,0,0
+2025-01-29,Wednesday,Weekday,215,Barista,2,2,9,90,1620,0,0
+2025-01-29,Wednesday,Weekday,215,Waiter/Waitress,4,5,9,75,3375,0,0
+2025-01-29,Wednesday,Weekday,215,Cashier,1,1,10,80,800,0,0
+2025-01-29,Wednesday,Weekday,215,Kitchen Helper,2,3,9,65,1755,0,0
+2025-01-29,Wednesday,Weekday,215,Delivery/Runner,2,2,8,65,1040,0,0
+2025-01-30,Thursday,Weekday,196,Head Chef,1,1,8,220,1760,0,0
+2025-01-30,Thursday,Weekday,196,Sous Chef,1,1,10,160,1600,0,0
+2025-01-30,Thursday,Weekday,196,Line Cook,2,3,8,100,2400,0,0
+2025-01-30,Thursday,Weekday,196,Barista,1,1,8,90,720,0,0
+2025-01-30,Thursday,Weekday,196,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-01-30,Thursday,Weekday,196,Cashier,1,1,8,80,640,0,0
+2025-01-30,Thursday,Weekday,196,Kitchen Helper,1,2,9,65,1170,0,0
+2025-01-30,Thursday,Weekday,196,Delivery/Runner,1,1,10,65,650,0,0
+2025-01-31,Friday,Weekend,289,Head Chef,1,1,8,220,1760,0,0
+2025-01-31,Friday,Weekend,289,Sous Chef,1,1,8,160,1280,0,0
+2025-01-31,Friday,Weekend,289,Line Cook,3,2,8,100,1600,0,1
+2025-01-31,Friday,Weekend,289,Barista,2,3,8,90,2160,0,0
+2025-01-31,Friday,Weekend,289,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-01-31,Friday,Weekend,289,Cashier,1,2,10,80,1600,0,0
+2025-01-31,Friday,Weekend,289,Kitchen Helper,2,2,10,65,1300,0,0
+2025-01-31,Friday,Weekend,289,Delivery/Runner,2,2,8,65,1040,0,0
+2025-02-01,Saturday,Weekend,307,Head Chef,1,1,10,220,2200,0,0
+2025-02-01,Saturday,Weekend,307,Sous Chef,1,1,8,160,1280,0,0
+2025-02-01,Saturday,Weekend,307,Line Cook,3,4,8,100,3200,0,0
+2025-02-01,Saturday,Weekend,307,Barista,2,3,10,90,2700,0,0
+2025-02-01,Saturday,Weekend,307,Waiter/Waitress,5,4,10,75,3000,0,1
+2025-02-01,Saturday,Weekend,307,Cashier,1,1,10,80,800,0,0
+2025-02-01,Saturday,Weekend,307,Kitchen Helper,2,2,8,65,1040,0,0
+2025-02-01,Saturday,Weekend,307,Delivery/Runner,2,3,8,65,1560,0,0
+2025-02-02,Sunday,Weekend,310,Head Chef,1,2,9,220,3960,0,0
+2025-02-02,Sunday,Weekend,310,Sous Chef,1,1,10,160,1600,0,0
+2025-02-02,Sunday,Weekend,310,Line Cook,3,3,9,100,2700,0,0
+2025-02-02,Sunday,Weekend,310,Barista,2,1,8,90,720,0,1
+2025-02-02,Sunday,Weekend,310,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-02-02,Sunday,Weekend,310,Cashier,1,2,9,80,1440,0,0
+2025-02-02,Sunday,Weekend,310,Kitchen Helper,2,3,8,65,1560,0,0
+2025-02-02,Sunday,Weekend,310,Delivery/Runner,2,2,8,65,1040,0,0
+2025-02-03,Monday,Weekday,213,Head Chef,1,1,8,220,1760,0,0
+2025-02-03,Monday,Weekday,213,Sous Chef,1,1,10,160,1600,0,0
+2025-02-03,Monday,Weekday,213,Line Cook,3,4,10,100,4000,0,0
+2025-02-03,Monday,Weekday,213,Barista,2,1,8,90,720,0,1
+2025-02-03,Monday,Weekday,213,Waiter/Waitress,4,4,8,75,2400,0,0
+2025-02-03,Monday,Weekday,213,Cashier,1,1,9,80,720,0,0
+2025-02-03,Monday,Weekday,213,Kitchen Helper,2,1,8,65,520,0,1
+2025-02-03,Monday,Weekday,213,Delivery/Runner,2,2,8,65,1040,0,0
+2025-02-04,Tuesday,Weekday,192,Head Chef,1,1,8,220,1760,0,0
+2025-02-04,Tuesday,Weekday,192,Sous Chef,1,1,10,160,1600,0,0
+2025-02-04,Tuesday,Weekday,192,Line Cook,2,3,10,100,3000,0,0
+2025-02-04,Tuesday,Weekday,192,Barista,1,1,8,90,720,0,0
+2025-02-04,Tuesday,Weekday,192,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-02-04,Tuesday,Weekday,192,Cashier,1,1,9,80,720,0,0
+2025-02-04,Tuesday,Weekday,192,Kitchen Helper,1,1,8,65,520,0,0
+2025-02-04,Tuesday,Weekday,192,Delivery/Runner,1,1,8,65,520,0,0
+2025-02-05,Wednesday,Weekday,197,Head Chef,1,1,9,220,1980,0,0
+2025-02-05,Wednesday,Weekday,197,Sous Chef,1,2,10,160,3200,0,0
+2025-02-05,Wednesday,Weekday,197,Line Cook,2,3,8,100,2400,0,0
+2025-02-05,Wednesday,Weekday,197,Barista,1,1,10,90,900,0,0
+2025-02-05,Wednesday,Weekday,197,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-02-05,Wednesday,Weekday,197,Cashier,1,1,8,80,640,0,0
+2025-02-05,Wednesday,Weekday,197,Kitchen Helper,1,1,9,65,585,0,0
+2025-02-05,Wednesday,Weekday,197,Delivery/Runner,1,1,10,65,650,0,0
+2025-02-06,Thursday,Weekday,195,Head Chef,1,1,9,220,1980,0,0
+2025-02-06,Thursday,Weekday,195,Sous Chef,1,1,10,160,1600,0,0
+2025-02-06,Thursday,Weekday,195,Line Cook,2,2,8,100,1600,0,0
+2025-02-06,Thursday,Weekday,195,Barista,1,1,10,90,900,0,0
+2025-02-06,Thursday,Weekday,195,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-02-06,Thursday,Weekday,195,Cashier,1,1,9,80,720,0,0
+2025-02-06,Thursday,Weekday,195,Kitchen Helper,1,1,8,65,520,0,0
+2025-02-06,Thursday,Weekday,195,Delivery/Runner,1,2,8,65,1040,0,0
+2025-02-07,Friday,Weekend,281,Head Chef,1,2,9,220,3960,0,0
+2025-02-07,Friday,Weekend,281,Sous Chef,1,2,8,160,2560,0,0
+2025-02-07,Friday,Weekend,281,Line Cook,3,2,10,100,2000,0,1
+2025-02-07,Friday,Weekend,281,Barista,2,2,9,90,1620,0,0
+2025-02-07,Friday,Weekend,281,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-02-07,Friday,Weekend,281,Cashier,1,1,10,80,800,0,0
+2025-02-07,Friday,Weekend,281,Kitchen Helper,2,2,10,65,1300,0,0
+2025-02-07,Friday,Weekend,281,Delivery/Runner,2,2,9,65,1170,0,0
+2025-02-08,Saturday,Weekend,310,Head Chef,1,1,10,220,2200,0,0
+2025-02-08,Saturday,Weekend,310,Sous Chef,1,1,8,160,1280,0,0
+2025-02-08,Saturday,Weekend,310,Line Cook,3,4,10,100,4000,0,0
+2025-02-08,Saturday,Weekend,310,Barista,2,3,10,90,2700,0,0
+2025-02-08,Saturday,Weekend,310,Waiter/Waitress,5,6,9,75,4050,0,0
+2025-02-08,Saturday,Weekend,310,Cashier,1,1,10,80,800,0,0
+2025-02-08,Saturday,Weekend,310,Kitchen Helper,2,2,8,65,1040,0,0
+2025-02-08,Saturday,Weekend,310,Delivery/Runner,2,2,9,65,1170,0,0
+2025-02-09,Sunday,Weekend,259,Head Chef,1,1,9,220,1980,0,0
+2025-02-09,Sunday,Weekend,259,Sous Chef,1,1,9,160,1440,0,0
+2025-02-09,Sunday,Weekend,259,Line Cook,3,3,8,100,2400,0,0
+2025-02-09,Sunday,Weekend,259,Barista,2,3,8,90,2160,0,0
+2025-02-09,Sunday,Weekend,259,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-02-09,Sunday,Weekend,259,Cashier,1,1,9,80,720,0,0
+2025-02-09,Sunday,Weekend,259,Kitchen Helper,2,3,9,65,1755,0,0
+2025-02-09,Sunday,Weekend,259,Delivery/Runner,2,2,9,65,1170,0,0
+2025-02-10,Monday,Weekday,198,Head Chef,1,1,9,220,1980,0,0
+2025-02-10,Monday,Weekday,198,Sous Chef,1,1,10,160,1600,0,0
+2025-02-10,Monday,Weekday,198,Line Cook,2,2,10,100,2000,0,0
+2025-02-10,Monday,Weekday,198,Barista,1,2,10,90,1800,0,0
+2025-02-10,Monday,Weekday,198,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-02-10,Monday,Weekday,198,Cashier,1,1,8,80,640,0,0
+2025-02-10,Monday,Weekday,198,Kitchen Helper,1,2,8,65,1040,0,0
+2025-02-10,Monday,Weekday,198,Delivery/Runner,1,1,8,65,520,0,0
+2025-02-11,Tuesday,Weekday,163,Head Chef,1,1,8,220,1760,0,0
+2025-02-11,Tuesday,Weekday,163,Sous Chef,1,1,8,160,1280,0,0
+2025-02-11,Tuesday,Weekday,163,Line Cook,2,2,8,100,1600,0,0
+2025-02-11,Tuesday,Weekday,163,Barista,1,1,8,90,720,0,0
+2025-02-11,Tuesday,Weekday,163,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-02-11,Tuesday,Weekday,163,Cashier,1,1,10,80,800,0,0
+2025-02-11,Tuesday,Weekday,163,Kitchen Helper,1,1,9,65,585,0,0
+2025-02-11,Tuesday,Weekday,163,Delivery/Runner,1,2,8,65,1040,0,0
+2025-02-12,Wednesday,Weekday,180,Head Chef,1,1,9,220,1980,0,0
+2025-02-12,Wednesday,Weekday,180,Sous Chef,1,1,10,160,1600,0,0
+2025-02-12,Wednesday,Weekday,180,Line Cook,2,2,9,100,1800,0,0
+2025-02-12,Wednesday,Weekday,180,Barista,1,1,8,90,720,0,0
+2025-02-12,Wednesday,Weekday,180,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-02-12,Wednesday,Weekday,180,Cashier,1,1,9,80,720,0,0
+2025-02-12,Wednesday,Weekday,180,Kitchen Helper,1,1,9,65,585,0,0
+2025-02-12,Wednesday,Weekday,180,Delivery/Runner,1,2,8,65,1040,0,0
+2025-02-13,Thursday,Weekday,196,Head Chef,1,1,10,220,2200,0,0
+2025-02-13,Thursday,Weekday,196,Sous Chef,1,1,10,160,1600,0,0
+2025-02-13,Thursday,Weekday,196,Line Cook,2,2,10,100,2000,0,0
+2025-02-13,Thursday,Weekday,196,Barista,1,1,9,90,810,0,0
+2025-02-13,Thursday,Weekday,196,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-02-13,Thursday,Weekday,196,Cashier,1,2,10,80,1600,0,0
+2025-02-13,Thursday,Weekday,196,Kitchen Helper,1,1,9,65,585,0,0
+2025-02-13,Thursday,Weekday,196,Delivery/Runner,1,1,8,65,520,0,0
+2025-02-14,Friday,Weekend,307,Head Chef,1,1,10,220,2200,0,0
+2025-02-14,Friday,Weekend,307,Sous Chef,1,2,8,160,2560,0,0
+2025-02-14,Friday,Weekend,307,Line Cook,3,3,10,100,3000,0,0
+2025-02-14,Friday,Weekend,307,Barista,2,3,9,90,2430,0,0
+2025-02-14,Friday,Weekend,307,Waiter/Waitress,5,6,9,75,4050,0,0
+2025-02-14,Friday,Weekend,307,Cashier,1,1,10,80,800,0,0
+2025-02-14,Friday,Weekend,307,Kitchen Helper,2,3,9,65,1755,0,0
+2025-02-14,Friday,Weekend,307,Delivery/Runner,2,2,9,65,1170,0,0
+2025-02-15,Saturday,Weekend,307,Head Chef,1,1,9,220,1980,0,0
+2025-02-15,Saturday,Weekend,307,Sous Chef,1,1,9,160,1440,0,0
+2025-02-15,Saturday,Weekend,307,Line Cook,3,2,10,100,2000,0,1
+2025-02-15,Saturday,Weekend,307,Barista,2,1,8,90,720,0,1
+2025-02-15,Saturday,Weekend,307,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-02-15,Saturday,Weekend,307,Cashier,1,1,9,80,720,0,0
+2025-02-15,Saturday,Weekend,307,Kitchen Helper,2,1,10,65,650,0,1
+2025-02-15,Saturday,Weekend,307,Delivery/Runner,2,2,8,65,1040,0,0
+2025-02-16,Sunday,Weekend,300,Head Chef,1,2,9,220,3960,0,0
+2025-02-16,Sunday,Weekend,300,Sous Chef,1,1,10,160,1600,0,0
+2025-02-16,Sunday,Weekend,300,Line Cook,3,3,8,100,2400,0,0
+2025-02-16,Sunday,Weekend,300,Barista,2,2,8,90,1440,0,0
+2025-02-16,Sunday,Weekend,300,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-02-16,Sunday,Weekend,300,Cashier,1,1,10,80,800,0,0
+2025-02-16,Sunday,Weekend,300,Kitchen Helper,2,1,8,65,520,0,1
+2025-02-16,Sunday,Weekend,300,Delivery/Runner,2,2,8,65,1040,0,0
+2025-02-17,Monday,Weekday,200,Head Chef,1,1,9,220,1980,0,0
+2025-02-17,Monday,Weekday,200,Sous Chef,1,1,8,160,1280,0,0
+2025-02-17,Monday,Weekday,200,Line Cook,2,2,10,100,2000,0,0
+2025-02-17,Monday,Weekday,200,Barista,1,1,10,90,900,0,0
+2025-02-17,Monday,Weekday,200,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-02-17,Monday,Weekday,200,Cashier,1,1,10,80,800,0,0
+2025-02-17,Monday,Weekday,200,Kitchen Helper,1,1,10,65,650,0,0
+2025-02-17,Monday,Weekday,200,Delivery/Runner,1,1,9,65,585,0,0
+2025-02-18,Tuesday,Weekday,187,Head Chef,1,1,9,220,1980,0,0
+2025-02-18,Tuesday,Weekday,187,Sous Chef,1,1,10,160,1600,0,0
+2025-02-18,Tuesday,Weekday,187,Line Cook,2,2,8,100,1600,0,0
+2025-02-18,Tuesday,Weekday,187,Barista,1,1,10,90,900,0,0
+2025-02-18,Tuesday,Weekday,187,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-02-18,Tuesday,Weekday,187,Cashier,1,1,8,80,640,0,0
+2025-02-18,Tuesday,Weekday,187,Kitchen Helper,1,1,8,65,520,0,0
+2025-02-18,Tuesday,Weekday,187,Delivery/Runner,1,2,8,65,1040,0,0
+2025-02-19,Wednesday,Weekday,192,Head Chef,1,1,10,220,2200,0,0
+2025-02-19,Wednesday,Weekday,192,Sous Chef,1,1,9,160,1440,0,0
+2025-02-19,Wednesday,Weekday,192,Line Cook,2,2,8,100,1600,0,0
+2025-02-19,Wednesday,Weekday,192,Barista,1,1,8,90,720,0,0
+2025-02-19,Wednesday,Weekday,192,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-02-19,Wednesday,Weekday,192,Cashier,1,1,8,80,640,0,0
+2025-02-19,Wednesday,Weekday,192,Kitchen Helper,1,1,9,65,585,0,0
+2025-02-19,Wednesday,Weekday,192,Delivery/Runner,1,1,8,65,520,0,0
+2025-02-20,Thursday,Weekday,191,Head Chef,1,1,9,220,1980,0,0
+2025-02-20,Thursday,Weekday,191,Sous Chef,1,2,9,160,2880,0,0
+2025-02-20,Thursday,Weekday,191,Line Cook,2,2,10,100,2000,0,0
+2025-02-20,Thursday,Weekday,191,Barista,1,2,8,90,1440,0,0
+2025-02-20,Thursday,Weekday,191,Waiter/Waitress,3,4,8,75,2400,0,0
+2025-02-20,Thursday,Weekday,191,Cashier,1,1,8,80,640,0,0
+2025-02-20,Thursday,Weekday,191,Kitchen Helper,1,1,10,65,650,0,0
+2025-02-20,Thursday,Weekday,191,Delivery/Runner,1,1,10,65,650,0,0
+2025-02-21,Friday,Weekend,301,Head Chef,1,2,8,220,3520,0,0
+2025-02-21,Friday,Weekend,301,Sous Chef,1,1,8,160,1280,0,0
+2025-02-21,Friday,Weekend,301,Line Cook,3,3,9,100,2700,0,0
+2025-02-21,Friday,Weekend,301,Barista,2,2,10,90,1800,0,0
+2025-02-21,Friday,Weekend,301,Waiter/Waitress,5,6,10,75,4500,0,0
+2025-02-21,Friday,Weekend,301,Cashier,1,1,9,80,720,0,0
+2025-02-21,Friday,Weekend,301,Kitchen Helper,2,3,9,65,1755,0,0
+2025-02-21,Friday,Weekend,301,Delivery/Runner,2,2,8,65,1040,0,0
+2025-02-22,Saturday,Weekend,290,Head Chef,1,1,9,220,1980,0,0
+2025-02-22,Saturday,Weekend,290,Sous Chef,1,1,8,160,1280,0,0
+2025-02-22,Saturday,Weekend,290,Line Cook,3,2,10,100,2000,0,1
+2025-02-22,Saturday,Weekend,290,Barista,2,2,10,90,1800,0,0
+2025-02-22,Saturday,Weekend,290,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-02-22,Saturday,Weekend,290,Cashier,1,1,9,80,720,0,0
+2025-02-22,Saturday,Weekend,290,Kitchen Helper,2,3,8,65,1560,0,0
+2025-02-22,Saturday,Weekend,290,Delivery/Runner,2,1,8,65,520,0,1
+2025-02-23,Sunday,Weekend,294,Head Chef,1,1,10,220,2200,0,0
+2025-02-23,Sunday,Weekend,294,Sous Chef,1,1,10,160,1600,0,0
+2025-02-23,Sunday,Weekend,294,Line Cook,3,2,10,100,2000,0,1
+2025-02-23,Sunday,Weekend,294,Barista,2,2,10,90,1800,0,0
+2025-02-23,Sunday,Weekend,294,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-02-23,Sunday,Weekend,294,Cashier,1,1,8,80,640,0,0
+2025-02-23,Sunday,Weekend,294,Kitchen Helper,2,2,9,65,1170,0,0
+2025-02-23,Sunday,Weekend,294,Delivery/Runner,2,2,9,65,1170,0,0
+2025-02-24,Monday,Weekday,183,Head Chef,1,1,8,220,1760,0,0
+2025-02-24,Monday,Weekday,183,Sous Chef,1,1,9,160,1440,0,0
+2025-02-24,Monday,Weekday,183,Line Cook,2,2,8,100,1600,0,0
+2025-02-24,Monday,Weekday,183,Barista,1,1,8,90,720,0,0
+2025-02-24,Monday,Weekday,183,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-02-24,Monday,Weekday,183,Cashier,1,1,10,80,800,0,0
+2025-02-24,Monday,Weekday,183,Kitchen Helper,1,2,8,65,1040,0,0
+2025-02-24,Monday,Weekday,183,Delivery/Runner,1,1,8,65,520,0,0
+2025-02-25,Tuesday,Weekday,201,Head Chef,1,1,10,220,2200,0,0
+2025-02-25,Tuesday,Weekday,201,Sous Chef,1,1,8,160,1280,0,0
+2025-02-25,Tuesday,Weekday,201,Line Cook,3,3,8,100,2400,0,0
+2025-02-25,Tuesday,Weekday,201,Barista,2,2,10,90,1800,0,0
+2025-02-25,Tuesday,Weekday,201,Waiter/Waitress,4,5,10,75,3750,0,0
+2025-02-25,Tuesday,Weekday,201,Cashier,1,2,8,80,1280,0,0
+2025-02-25,Tuesday,Weekday,201,Kitchen Helper,2,2,10,65,1300,0,0
+2025-02-25,Tuesday,Weekday,201,Delivery/Runner,2,2,10,65,1300,0,0
+2025-02-26,Wednesday,Weekday,217,Head Chef,1,1,8,220,1760,0,0
+2025-02-26,Wednesday,Weekday,217,Sous Chef,1,1,9,160,1440,0,0
+2025-02-26,Wednesday,Weekday,217,Line Cook,3,3,10,100,3000,0,0
+2025-02-26,Wednesday,Weekday,217,Barista,2,3,8,90,2160,0,0
+2025-02-26,Wednesday,Weekday,217,Waiter/Waitress,4,3,8,75,1800,0,1
+2025-02-26,Wednesday,Weekday,217,Cashier,1,1,8,80,640,0,0
+2025-02-26,Wednesday,Weekday,217,Kitchen Helper,2,2,9,65,1170,0,0
+2025-02-26,Wednesday,Weekday,217,Delivery/Runner,2,2,9,65,1170,0,0
+2025-02-27,Thursday,Weekday,216,Head Chef,1,1,9,220,1980,0,0
+2025-02-27,Thursday,Weekday,216,Sous Chef,1,1,8,160,1280,0,0
+2025-02-27,Thursday,Weekday,216,Line Cook,3,3,8,100,2400,0,0
+2025-02-27,Thursday,Weekday,216,Barista,2,2,10,90,1800,0,0
+2025-02-27,Thursday,Weekday,216,Waiter/Waitress,4,4,10,75,3000,0,0
+2025-02-27,Thursday,Weekday,216,Cashier,1,1,9,80,720,0,0
+2025-02-27,Thursday,Weekday,216,Kitchen Helper,2,3,9,65,1755,0,0
+2025-02-27,Thursday,Weekday,216,Delivery/Runner,2,1,8,65,520,0,1
+2025-02-28,Friday,Weekend,267,Head Chef,1,1,9,220,1980,0,0
+2025-02-28,Friday,Weekend,267,Sous Chef,1,2,9,160,2880,0,0
+2025-02-28,Friday,Weekend,267,Line Cook,3,3,10,100,3000,0,0
+2025-02-28,Friday,Weekend,267,Barista,2,2,8,90,1440,0,0
+2025-02-28,Friday,Weekend,267,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-02-28,Friday,Weekend,267,Cashier,1,1,10,80,800,0,0
+2025-02-28,Friday,Weekend,267,Kitchen Helper,2,1,8,65,520,0,1
+2025-02-28,Friday,Weekend,267,Delivery/Runner,2,3,10,65,1950,0,0
+2025-03-01,Saturday,Weekend,243,Head Chef,1,2,10,220,4400,0,0
+2025-03-01,Saturday,Weekend,243,Sous Chef,1,1,9,160,1440,0,0
+2025-03-01,Saturday,Weekend,243,Line Cook,3,2,9,100,1800,0,1
+2025-03-01,Saturday,Weekend,243,Barista,2,3,8,90,2160,0,0
+2025-03-01,Saturday,Weekend,243,Waiter/Waitress,5,4,8,75,2400,0,1
+2025-03-01,Saturday,Weekend,243,Cashier,1,1,8,80,640,0,0
+2025-03-01,Saturday,Weekend,243,Kitchen Helper,2,2,9,65,1170,0,0
+2025-03-01,Saturday,Weekend,243,Delivery/Runner,2,2,10,65,1300,0,0
+2025-03-02,Sunday,Weekend,236,Head Chef,1,2,10,220,4400,0,0
+2025-03-02,Sunday,Weekend,236,Sous Chef,1,1,10,160,1600,0,0
+2025-03-02,Sunday,Weekend,236,Line Cook,3,3,8,100,2400,0,0
+2025-03-02,Sunday,Weekend,236,Barista,2,2,10,90,1800,0,0
+2025-03-02,Sunday,Weekend,236,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-03-02,Sunday,Weekend,236,Cashier,1,1,10,80,800,0,0
+2025-03-02,Sunday,Weekend,236,Kitchen Helper,2,2,8,65,1040,0,0
+2025-03-02,Sunday,Weekend,236,Delivery/Runner,2,2,8,65,1040,0,0
+2025-03-03,Monday,Weekday,162,Head Chef,1,1,10,220,2200,0,0
+2025-03-03,Monday,Weekday,162,Sous Chef,1,1,8,160,1280,0,0
+2025-03-03,Monday,Weekday,162,Line Cook,2,2,8,100,1600,0,0
+2025-03-03,Monday,Weekday,162,Barista,1,1,9,90,810,0,0
+2025-03-03,Monday,Weekday,162,Waiter/Waitress,3,4,8,75,2400,0,0
+2025-03-03,Monday,Weekday,162,Cashier,1,1,10,80,800,0,0
+2025-03-03,Monday,Weekday,162,Kitchen Helper,1,1,10,65,650,0,0
+2025-03-03,Monday,Weekday,162,Delivery/Runner,1,1,10,65,650,0,0
+2025-03-04,Tuesday,Weekday,161,Head Chef,1,2,10,220,4400,0,0
+2025-03-04,Tuesday,Weekday,161,Sous Chef,1,1,9,160,1440,0,0
+2025-03-04,Tuesday,Weekday,161,Line Cook,2,2,9,100,1800,0,0
+2025-03-04,Tuesday,Weekday,161,Barista,1,1,9,90,810,0,0
+2025-03-04,Tuesday,Weekday,161,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-03-04,Tuesday,Weekday,161,Cashier,1,1,10,80,800,0,0
+2025-03-04,Tuesday,Weekday,161,Kitchen Helper,1,1,10,65,650,0,0
+2025-03-04,Tuesday,Weekday,161,Delivery/Runner,1,1,8,65,520,0,0
+2025-03-05,Wednesday,Weekday,159,Head Chef,1,1,9,220,1980,0,0
+2025-03-05,Wednesday,Weekday,159,Sous Chef,1,1,9,160,1440,0,0
+2025-03-05,Wednesday,Weekday,159,Line Cook,2,2,8,100,1600,0,0
+2025-03-05,Wednesday,Weekday,159,Barista,1,1,8,90,720,0,0
+2025-03-05,Wednesday,Weekday,159,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-03-05,Wednesday,Weekday,159,Cashier,1,1,9,80,720,0,0
+2025-03-05,Wednesday,Weekday,159,Kitchen Helper,1,1,10,65,650,0,0
+2025-03-05,Wednesday,Weekday,159,Delivery/Runner,1,2,10,65,1300,0,0
+2025-03-06,Thursday,Weekday,169,Head Chef,1,2,8,220,3520,0,0
+2025-03-06,Thursday,Weekday,169,Sous Chef,1,2,8,160,2560,0,0
+2025-03-06,Thursday,Weekday,169,Line Cook,2,2,10,100,2000,0,0
+2025-03-06,Thursday,Weekday,169,Barista,1,2,10,90,1800,0,0
+2025-03-06,Thursday,Weekday,169,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-03-06,Thursday,Weekday,169,Cashier,1,1,8,80,640,0,0
+2025-03-06,Thursday,Weekday,169,Kitchen Helper,1,1,9,65,585,0,0
+2025-03-06,Thursday,Weekday,169,Delivery/Runner,1,1,9,65,585,0,0
+2025-03-07,Friday,Weekend,271,Head Chef,1,2,8,220,3520,0,0
+2025-03-07,Friday,Weekend,271,Sous Chef,1,1,8,160,1280,0,0
+2025-03-07,Friday,Weekend,271,Line Cook,3,3,9,100,2700,0,0
+2025-03-07,Friday,Weekend,271,Barista,2,3,10,90,2700,0,0
+2025-03-07,Friday,Weekend,271,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-03-07,Friday,Weekend,271,Cashier,1,1,10,80,800,0,0
+2025-03-07,Friday,Weekend,271,Kitchen Helper,2,1,9,65,585,0,1
+2025-03-07,Friday,Weekend,271,Delivery/Runner,2,3,8,65,1560,0,0
+2025-03-08,Saturday,Weekend,264,Head Chef,1,1,9,220,1980,0,0
+2025-03-08,Saturday,Weekend,264,Sous Chef,1,1,10,160,1600,0,0
+2025-03-08,Saturday,Weekend,264,Line Cook,3,3,10,100,3000,0,0
+2025-03-08,Saturday,Weekend,264,Barista,2,2,10,90,1800,0,0
+2025-03-08,Saturday,Weekend,264,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-03-08,Saturday,Weekend,264,Cashier,1,1,10,80,800,0,0
+2025-03-08,Saturday,Weekend,264,Kitchen Helper,2,2,9,65,1170,0,0
+2025-03-08,Saturday,Weekend,264,Delivery/Runner,2,2,9,65,1170,0,0
+2025-03-09,Sunday,Weekend,268,Head Chef,1,1,9,220,1980,0,0
+2025-03-09,Sunday,Weekend,268,Sous Chef,1,1,9,160,1440,0,0
+2025-03-09,Sunday,Weekend,268,Line Cook,3,3,10,100,3000,0,0
+2025-03-09,Sunday,Weekend,268,Barista,2,2,8,90,1440,0,0
+2025-03-09,Sunday,Weekend,268,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-03-09,Sunday,Weekend,268,Cashier,1,1,10,80,800,0,0
+2025-03-09,Sunday,Weekend,268,Kitchen Helper,2,2,8,65,1040,0,0
+2025-03-09,Sunday,Weekend,268,Delivery/Runner,2,2,8,65,1040,0,0
+2025-03-10,Monday,Weekday,195,Head Chef,1,1,8,220,1760,0,0
+2025-03-10,Monday,Weekday,195,Sous Chef,1,2,10,160,3200,0,0
+2025-03-10,Monday,Weekday,195,Line Cook,2,2,10,100,2000,0,0
+2025-03-10,Monday,Weekday,195,Barista,1,1,10,90,900,0,0
+2025-03-10,Monday,Weekday,195,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-03-10,Monday,Weekday,195,Cashier,1,2,8,80,1280,0,0
+2025-03-10,Monday,Weekday,195,Kitchen Helper,1,1,8,65,520,0,0
+2025-03-10,Monday,Weekday,195,Delivery/Runner,1,2,9,65,1170,0,0
+2025-03-11,Tuesday,Weekday,191,Head Chef,1,1,8,220,1760,0,0
+2025-03-11,Tuesday,Weekday,191,Sous Chef,1,1,10,160,1600,0,0
+2025-03-11,Tuesday,Weekday,191,Line Cook,2,2,9,100,1800,0,0
+2025-03-11,Tuesday,Weekday,191,Barista,1,1,9,90,810,0,0
+2025-03-11,Tuesday,Weekday,191,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-03-11,Tuesday,Weekday,191,Cashier,1,1,10,80,800,0,0
+2025-03-11,Tuesday,Weekday,191,Kitchen Helper,1,1,8,65,520,0,0
+2025-03-11,Tuesday,Weekday,191,Delivery/Runner,1,1,9,65,585,0,0
+2025-03-12,Wednesday,Weekday,156,Head Chef,1,1,9,220,1980,0,0
+2025-03-12,Wednesday,Weekday,156,Sous Chef,1,2,10,160,3200,0,0
+2025-03-12,Wednesday,Weekday,156,Line Cook,2,2,8,100,1600,0,0
+2025-03-12,Wednesday,Weekday,156,Barista,1,1,8,90,720,0,0
+2025-03-12,Wednesday,Weekday,156,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-03-12,Wednesday,Weekday,156,Cashier,1,1,9,80,720,0,0
+2025-03-12,Wednesday,Weekday,156,Kitchen Helper,1,1,10,65,650,0,0
+2025-03-12,Wednesday,Weekday,156,Delivery/Runner,1,1,9,65,585,0,0
+2025-03-13,Thursday,Weekday,166,Head Chef,1,1,9,220,1980,0,0
+2025-03-13,Thursday,Weekday,166,Sous Chef,1,1,9,160,1440,0,0
+2025-03-13,Thursday,Weekday,166,Line Cook,2,2,9,100,1800,0,0
+2025-03-13,Thursday,Weekday,166,Barista,1,2,8,90,1440,0,0
+2025-03-13,Thursday,Weekday,166,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-03-13,Thursday,Weekday,166,Cashier,1,1,10,80,800,0,0
+2025-03-13,Thursday,Weekday,166,Kitchen Helper,1,1,8,65,520,0,0
+2025-03-13,Thursday,Weekday,166,Delivery/Runner,1,2,8,65,1040,0,0
+2025-03-14,Friday,Weekend,243,Head Chef,1,1,8,220,1760,0,0
+2025-03-14,Friday,Weekend,243,Sous Chef,1,2,10,160,3200,0,0
+2025-03-14,Friday,Weekend,243,Line Cook,3,2,9,100,1800,0,1
+2025-03-14,Friday,Weekend,243,Barista,2,1,9,90,810,0,1
+2025-03-14,Friday,Weekend,243,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-03-14,Friday,Weekend,243,Cashier,1,1,9,80,720,0,0
+2025-03-14,Friday,Weekend,243,Kitchen Helper,2,2,8,65,1040,0,0
+2025-03-14,Friday,Weekend,243,Delivery/Runner,2,2,10,65,1300,0,0
+2025-03-15,Saturday,Weekend,241,Head Chef,1,1,8,220,1760,0,0
+2025-03-15,Saturday,Weekend,241,Sous Chef,1,1,8,160,1280,0,0
+2025-03-15,Saturday,Weekend,241,Line Cook,3,3,10,100,3000,0,0
+2025-03-15,Saturday,Weekend,241,Barista,2,2,9,90,1620,0,0
+2025-03-15,Saturday,Weekend,241,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-03-15,Saturday,Weekend,241,Cashier,1,1,8,80,640,0,0
+2025-03-15,Saturday,Weekend,241,Kitchen Helper,2,1,9,65,585,0,1
+2025-03-15,Saturday,Weekend,241,Delivery/Runner,2,3,10,65,1950,0,0
+2025-03-16,Sunday,Weekend,225,Head Chef,1,2,10,220,4400,0,0
+2025-03-16,Sunday,Weekend,225,Sous Chef,1,1,9,160,1440,0,0
+2025-03-16,Sunday,Weekend,225,Line Cook,3,3,10,100,3000,0,0
+2025-03-16,Sunday,Weekend,225,Barista,2,2,9,90,1620,0,0
+2025-03-16,Sunday,Weekend,225,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-03-16,Sunday,Weekend,225,Cashier,1,1,8,80,640,0,0
+2025-03-16,Sunday,Weekend,225,Kitchen Helper,2,2,9,65,1170,0,0
+2025-03-16,Sunday,Weekend,225,Delivery/Runner,2,2,9,65,1170,0,0
+2025-03-17,Monday,Weekday,169,Head Chef,1,1,8,220,1760,0,0
+2025-03-17,Monday,Weekday,169,Sous Chef,1,1,10,160,1600,0,0
+2025-03-17,Monday,Weekday,169,Line Cook,2,3,10,100,3000,0,0
+2025-03-17,Monday,Weekday,169,Barista,1,1,8,90,720,0,0
+2025-03-17,Monday,Weekday,169,Waiter/Waitress,3,4,8,75,2400,0,0
+2025-03-17,Monday,Weekday,169,Cashier,1,1,9,80,720,0,0
+2025-03-17,Monday,Weekday,169,Kitchen Helper,1,1,9,65,585,0,0
+2025-03-17,Monday,Weekday,169,Delivery/Runner,1,1,9,65,585,0,0
+2025-03-18,Tuesday,Weekday,161,Head Chef,1,1,8,220,1760,0,0
+2025-03-18,Tuesday,Weekday,161,Sous Chef,1,1,8,160,1280,0,0
+2025-03-18,Tuesday,Weekday,161,Line Cook,2,2,9,100,1800,0,0
+2025-03-18,Tuesday,Weekday,161,Barista,1,1,9,90,810,0,0
+2025-03-18,Tuesday,Weekday,161,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-03-18,Tuesday,Weekday,161,Cashier,1,1,10,80,800,0,0
+2025-03-18,Tuesday,Weekday,161,Kitchen Helper,1,1,8,65,520,0,0
+2025-03-18,Tuesday,Weekday,161,Delivery/Runner,1,2,10,65,1300,0,0
+2025-03-19,Wednesday,Weekday,149,Head Chef,1,1,8,220,1760,0,0
+2025-03-19,Wednesday,Weekday,149,Sous Chef,1,1,10,160,1600,0,0
+2025-03-19,Wednesday,Weekday,149,Line Cook,2,2,8,100,1600,0,0
+2025-03-19,Wednesday,Weekday,149,Barista,1,1,9,90,810,0,0
+2025-03-19,Wednesday,Weekday,149,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-03-19,Wednesday,Weekday,149,Cashier,1,1,9,80,720,0,0
+2025-03-19,Wednesday,Weekday,149,Kitchen Helper,1,1,9,65,585,0,0
+2025-03-19,Wednesday,Weekday,149,Delivery/Runner,1,1,10,65,650,0,0
+2025-03-20,Thursday,Weekday,162,Head Chef,1,1,8,220,1760,0,0
+2025-03-20,Thursday,Weekday,162,Sous Chef,1,1,8,160,1280,0,0
+2025-03-20,Thursday,Weekday,162,Line Cook,2,2,10,100,2000,0,0
+2025-03-20,Thursday,Weekday,162,Barista,1,1,8,90,720,0,0
+2025-03-20,Thursday,Weekday,162,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-03-20,Thursday,Weekday,162,Cashier,1,1,9,80,720,0,0
+2025-03-20,Thursday,Weekday,162,Kitchen Helper,1,2,9,65,1170,0,0
+2025-03-20,Thursday,Weekday,162,Delivery/Runner,1,1,10,65,650,0,0
+2025-03-21,Friday,Weekend,235,Head Chef,1,1,10,220,2200,0,0
+2025-03-21,Friday,Weekend,235,Sous Chef,1,2,9,160,2880,0,0
+2025-03-21,Friday,Weekend,235,Line Cook,3,3,8,100,2400,0,0
+2025-03-21,Friday,Weekend,235,Barista,2,2,8,90,1440,0,0
+2025-03-21,Friday,Weekend,235,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-03-21,Friday,Weekend,235,Cashier,1,1,9,80,720,0,0
+2025-03-21,Friday,Weekend,235,Kitchen Helper,2,2,9,65,1170,0,0
+2025-03-21,Friday,Weekend,235,Delivery/Runner,2,2,8,65,1040,0,0
+2025-03-22,Saturday,Weekend,252,Head Chef,1,1,8,220,1760,0,0
+2025-03-22,Saturday,Weekend,252,Sous Chef,1,1,8,160,1280,0,0
+2025-03-22,Saturday,Weekend,252,Line Cook,3,2,8,100,1600,0,1
+2025-03-22,Saturday,Weekend,252,Barista,2,3,10,90,2700,0,0
+2025-03-22,Saturday,Weekend,252,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-03-22,Saturday,Weekend,252,Cashier,1,1,9,80,720,0,0
+2025-03-22,Saturday,Weekend,252,Kitchen Helper,2,2,9,65,1170,0,0
+2025-03-22,Saturday,Weekend,252,Delivery/Runner,2,1,8,65,520,0,1
+2025-03-23,Sunday,Weekend,270,Head Chef,1,2,9,220,3960,0,0
+2025-03-23,Sunday,Weekend,270,Sous Chef,1,1,8,160,1280,0,0
+2025-03-23,Sunday,Weekend,270,Line Cook,3,4,8,100,3200,0,0
+2025-03-23,Sunday,Weekend,270,Barista,2,2,9,90,1620,0,0
+2025-03-23,Sunday,Weekend,270,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-03-23,Sunday,Weekend,270,Cashier,1,1,10,80,800,0,0
+2025-03-23,Sunday,Weekend,270,Kitchen Helper,2,2,10,65,1300,0,0
+2025-03-23,Sunday,Weekend,270,Delivery/Runner,2,3,9,65,1755,0,0
+2025-03-24,Monday,Weekday,200,Head Chef,1,1,8,220,1760,0,0
+2025-03-24,Monday,Weekday,200,Sous Chef,1,1,8,160,1280,0,0
+2025-03-24,Monday,Weekday,200,Line Cook,2,2,10,100,2000,0,0
+2025-03-24,Monday,Weekday,200,Barista,1,2,9,90,1620,0,0
+2025-03-24,Monday,Weekday,200,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-03-24,Monday,Weekday,200,Cashier,1,1,9,80,720,0,0
+2025-03-24,Monday,Weekday,200,Kitchen Helper,1,1,8,65,520,0,0
+2025-03-24,Monday,Weekday,200,Delivery/Runner,1,2,8,65,1040,0,0
+2025-03-25,Tuesday,Weekday,167,Head Chef,1,1,10,220,2200,0,0
+2025-03-25,Tuesday,Weekday,167,Sous Chef,1,1,8,160,1280,0,0
+2025-03-25,Tuesday,Weekday,167,Line Cook,2,2,9,100,1800,0,0
+2025-03-25,Tuesday,Weekday,167,Barista,1,1,10,90,900,0,0
+2025-03-25,Tuesday,Weekday,167,Waiter/Waitress,3,4,10,75,3000,0,0
+2025-03-25,Tuesday,Weekday,167,Cashier,1,1,9,80,720,0,0
+2025-03-25,Tuesday,Weekday,167,Kitchen Helper,1,1,10,65,650,0,0
+2025-03-25,Tuesday,Weekday,167,Delivery/Runner,1,1,8,65,520,0,0
+2025-03-26,Wednesday,Weekday,163,Head Chef,1,1,9,220,1980,0,0
+2025-03-26,Wednesday,Weekday,163,Sous Chef,1,2,10,160,3200,0,0
+2025-03-26,Wednesday,Weekday,163,Line Cook,2,2,10,100,2000,0,0
+2025-03-26,Wednesday,Weekday,163,Barista,1,2,9,90,1620,0,0
+2025-03-26,Wednesday,Weekday,163,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-03-26,Wednesday,Weekday,163,Cashier,1,1,8,80,640,0,0
+2025-03-26,Wednesday,Weekday,163,Kitchen Helper,1,1,9,65,585,0,0
+2025-03-26,Wednesday,Weekday,163,Delivery/Runner,1,1,8,65,520,0,0
+2025-03-27,Thursday,Weekday,167,Head Chef,1,1,9,220,1980,0,0
+2025-03-27,Thursday,Weekday,167,Sous Chef,1,1,8,160,1280,0,0
+2025-03-27,Thursday,Weekday,167,Line Cook,2,3,10,100,3000,0,0
+2025-03-27,Thursday,Weekday,167,Barista,1,1,9,90,810,0,0
+2025-03-27,Thursday,Weekday,167,Waiter/Waitress,3,4,8,75,2400,0,0
+2025-03-27,Thursday,Weekday,167,Cashier,1,2,8,80,1280,0,0
+2025-03-27,Thursday,Weekday,167,Kitchen Helper,1,1,10,65,650,0,0
+2025-03-27,Thursday,Weekday,167,Delivery/Runner,1,1,10,65,650,0,0
+2025-03-28,Friday,Weekend,271,Head Chef,1,1,10,220,2200,0,0
+2025-03-28,Friday,Weekend,271,Sous Chef,1,1,10,160,1600,0,0
+2025-03-28,Friday,Weekend,271,Line Cook,3,4,9,100,3600,0,0
+2025-03-28,Friday,Weekend,271,Barista,2,3,10,90,2700,0,0
+2025-03-28,Friday,Weekend,271,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-03-28,Friday,Weekend,271,Cashier,1,1,10,80,800,0,0
+2025-03-28,Friday,Weekend,271,Kitchen Helper,2,2,8,65,1040,0,0
+2025-03-28,Friday,Weekend,271,Delivery/Runner,2,3,9,65,1755,0,0
+2025-03-29,Saturday,Weekend,240,Head Chef,1,1,10,220,2200,0,0
+2025-03-29,Saturday,Weekend,240,Sous Chef,1,1,8,160,1280,0,0
+2025-03-29,Saturday,Weekend,240,Line Cook,3,3,8,100,2400,0,0
+2025-03-29,Saturday,Weekend,240,Barista,2,2,8,90,1440,0,0
+2025-03-29,Saturday,Weekend,240,Waiter/Waitress,5,4,9,75,2700,0,1
+2025-03-29,Saturday,Weekend,240,Cashier,1,1,8,80,640,0,0
+2025-03-29,Saturday,Weekend,240,Kitchen Helper,2,2,10,65,1300,0,0
+2025-03-29,Saturday,Weekend,240,Delivery/Runner,2,1,10,65,650,0,1
+2025-03-30,Sunday,Weekend,249,Head Chef,1,1,9,220,1980,0,0
+2025-03-30,Sunday,Weekend,249,Sous Chef,1,1,10,160,1600,0,0
+2025-03-30,Sunday,Weekend,249,Line Cook,3,2,8,100,1600,0,1
+2025-03-30,Sunday,Weekend,249,Barista,2,2,9,90,1620,0,0
+2025-03-30,Sunday,Weekend,249,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-03-30,Sunday,Weekend,249,Cashier,1,1,9,80,720,0,0
+2025-03-30,Sunday,Weekend,249,Kitchen Helper,2,2,8,65,1040,0,0
+2025-03-30,Sunday,Weekend,249,Delivery/Runner,2,2,9,65,1170,0,0
+2025-03-31,Monday,Weekday,188,Head Chef,1,1,10,220,2200,0,0
+2025-03-31,Monday,Weekday,188,Sous Chef,1,1,8,160,1280,0,0
+2025-03-31,Monday,Weekday,188,Line Cook,2,2,10,100,2000,0,0
+2025-03-31,Monday,Weekday,188,Barista,1,1,9,90,810,0,0
+2025-03-31,Monday,Weekday,188,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-03-31,Monday,Weekday,188,Cashier,1,1,10,80,800,0,0
+2025-03-31,Monday,Weekday,188,Kitchen Helper,1,1,8,65,520,0,0
+2025-03-31,Monday,Weekday,188,Delivery/Runner,1,2,8,65,1040,0,0
+2025-04-01,Tuesday,Weekday,183,Head Chef,1,1,10,220,2200,0,0
+2025-04-01,Tuesday,Weekday,183,Sous Chef,1,1,10,160,1600,0,0
+2025-04-01,Tuesday,Weekday,183,Line Cook,2,2,8,100,1600,0,0
+2025-04-01,Tuesday,Weekday,183,Barista,1,2,8,90,1440,0,0
+2025-04-01,Tuesday,Weekday,183,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-04-01,Tuesday,Weekday,183,Cashier,1,1,9,80,720,0,0
+2025-04-01,Tuesday,Weekday,183,Kitchen Helper,1,1,9,65,585,0,0
+2025-04-01,Tuesday,Weekday,183,Delivery/Runner,1,1,10,65,650,0,0
+2025-04-02,Wednesday,Weekday,150,Head Chef,1,2,10,220,4400,0,0
+2025-04-02,Wednesday,Weekday,150,Sous Chef,1,1,10,160,1600,0,0
+2025-04-02,Wednesday,Weekday,150,Line Cook,2,2,9,100,1800,0,0
+2025-04-02,Wednesday,Weekday,150,Barista,1,1,10,90,900,0,0
+2025-04-02,Wednesday,Weekday,150,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-04-02,Wednesday,Weekday,150,Cashier,1,2,9,80,1440,0,0
+2025-04-02,Wednesday,Weekday,150,Kitchen Helper,1,2,9,65,1170,0,0
+2025-04-02,Wednesday,Weekday,150,Delivery/Runner,1,1,10,65,650,0,0
+2025-04-03,Thursday,Weekday,177,Head Chef,1,2,8,220,3520,0,0
+2025-04-03,Thursday,Weekday,177,Sous Chef,1,1,9,160,1440,0,0
+2025-04-03,Thursday,Weekday,177,Line Cook,2,2,10,100,2000,0,0
+2025-04-03,Thursday,Weekday,177,Barista,1,1,10,90,900,0,0
+2025-04-03,Thursday,Weekday,177,Waiter/Waitress,3,4,9,75,2700,0,0
+2025-04-03,Thursday,Weekday,177,Cashier,1,2,10,80,1600,0,0
+2025-04-03,Thursday,Weekday,177,Kitchen Helper,1,1,9,65,585,0,0
+2025-04-03,Thursday,Weekday,177,Delivery/Runner,1,2,8,65,1040,0,0
+2025-04-04,Friday,Weekend,232,Head Chef,1,1,8,220,1760,0,0
+2025-04-04,Friday,Weekend,232,Sous Chef,1,1,9,160,1440,0,0
+2025-04-04,Friday,Weekend,232,Line Cook,3,4,8,100,3200,0,0
+2025-04-04,Friday,Weekend,232,Barista,2,2,10,90,1800,0,0
+2025-04-04,Friday,Weekend,232,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-04-04,Friday,Weekend,232,Cashier,1,1,9,80,720,0,0
+2025-04-04,Friday,Weekend,232,Kitchen Helper,2,2,9,65,1170,0,0
+2025-04-04,Friday,Weekend,232,Delivery/Runner,2,3,8,65,1560,0,0
+2025-04-05,Saturday,Weekend,264,Head Chef,1,1,10,220,2200,0,0
+2025-04-05,Saturday,Weekend,264,Sous Chef,1,2,10,160,3200,0,0
+2025-04-05,Saturday,Weekend,264,Line Cook,3,3,9,100,2700,0,0
+2025-04-05,Saturday,Weekend,264,Barista,2,2,9,90,1620,0,0
+2025-04-05,Saturday,Weekend,264,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-04-05,Saturday,Weekend,264,Cashier,1,1,8,80,640,0,0
+2025-04-05,Saturday,Weekend,264,Kitchen Helper,2,2,9,65,1170,0,0
+2025-04-05,Saturday,Weekend,264,Delivery/Runner,2,2,10,65,1300,0,0
+2025-04-06,Sunday,Weekend,248,Head Chef,1,1,9,220,1980,0,0
+2025-04-06,Sunday,Weekend,248,Sous Chef,1,1,8,160,1280,0,0
+2025-04-06,Sunday,Weekend,248,Line Cook,3,3,10,100,3000,0,0
+2025-04-06,Sunday,Weekend,248,Barista,2,2,10,90,1800,0,0
+2025-04-06,Sunday,Weekend,248,Waiter/Waitress,5,6,8,75,3600,0,0
+2025-04-06,Sunday,Weekend,248,Cashier,1,1,8,80,640,0,0
+2025-04-06,Sunday,Weekend,248,Kitchen Helper,2,2,8,65,1040,0,0
+2025-04-06,Sunday,Weekend,248,Delivery/Runner,2,2,8,65,1040,0,0
+2025-04-07,Monday,Weekday,145,Head Chef,1,2,10,220,4400,0,0
+2025-04-07,Monday,Weekday,145,Sous Chef,1,2,9,160,2880,0,0
+2025-04-07,Monday,Weekday,145,Line Cook,2,2,8,100,1600,0,0
+2025-04-07,Monday,Weekday,145,Barista,1,1,9,90,810,0,0
+2025-04-07,Monday,Weekday,145,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-04-07,Monday,Weekday,145,Cashier,1,1,9,80,720,0,0
+2025-04-07,Monday,Weekday,145,Kitchen Helper,1,1,8,65,520,0,0
+2025-04-07,Monday,Weekday,145,Delivery/Runner,1,1,9,65,585,0,0
+2025-04-08,Tuesday,Weekday,193,Head Chef,1,1,10,220,2200,0,0
+2025-04-08,Tuesday,Weekday,193,Sous Chef,1,1,8,160,1280,0,0
+2025-04-08,Tuesday,Weekday,193,Line Cook,2,2,8,100,1600,0,0
+2025-04-08,Tuesday,Weekday,193,Barista,1,2,10,90,1800,0,0
+2025-04-08,Tuesday,Weekday,193,Waiter/Waitress,3,4,10,75,3000,0,0
+2025-04-08,Tuesday,Weekday,193,Cashier,1,1,10,80,800,0,0
+2025-04-08,Tuesday,Weekday,193,Kitchen Helper,1,1,10,65,650,0,0
+2025-04-08,Tuesday,Weekday,193,Delivery/Runner,1,2,10,65,1300,0,0
+2025-04-09,Wednesday,Weekday,155,Head Chef,1,1,10,220,2200,0,0
+2025-04-09,Wednesday,Weekday,155,Sous Chef,1,1,9,160,1440,0,0
+2025-04-09,Wednesday,Weekday,155,Line Cook,2,2,10,100,2000,0,0
+2025-04-09,Wednesday,Weekday,155,Barista,1,2,9,90,1620,0,0
+2025-04-09,Wednesday,Weekday,155,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-04-09,Wednesday,Weekday,155,Cashier,1,2,10,80,1600,0,0
+2025-04-09,Wednesday,Weekday,155,Kitchen Helper,1,2,10,65,1300,0,0
+2025-04-09,Wednesday,Weekday,155,Delivery/Runner,1,1,10,65,650,0,0
+2025-04-10,Thursday,Weekday,159,Head Chef,1,2,8,220,3520,0,0
+2025-04-10,Thursday,Weekday,159,Sous Chef,1,2,9,160,2880,0,0
+2025-04-10,Thursday,Weekday,159,Line Cook,2,2,8,100,1600,0,0
+2025-04-10,Thursday,Weekday,159,Barista,1,1,9,90,810,0,0
+2025-04-10,Thursday,Weekday,159,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-04-10,Thursday,Weekday,159,Cashier,1,1,8,80,640,0,0
+2025-04-10,Thursday,Weekday,159,Kitchen Helper,1,2,9,65,1170,0,0
+2025-04-10,Thursday,Weekday,159,Delivery/Runner,1,2,8,65,1040,0,0
+2025-04-11,Friday,Weekend,257,Head Chef,1,1,8,220,1760,0,0
+2025-04-11,Friday,Weekend,257,Sous Chef,1,2,9,160,2880,0,0
+2025-04-11,Friday,Weekend,257,Line Cook,3,3,10,100,3000,0,0
+2025-04-11,Friday,Weekend,257,Barista,2,2,9,90,1620,0,0
+2025-04-11,Friday,Weekend,257,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-04-11,Friday,Weekend,257,Cashier,1,2,8,80,1280,0,0
+2025-04-11,Friday,Weekend,257,Kitchen Helper,2,2,9,65,1170,0,0
+2025-04-11,Friday,Weekend,257,Delivery/Runner,2,2,8,65,1040,0,0
+2025-04-12,Saturday,Weekend,216,Head Chef,1,1,10,220,2200,0,0
+2025-04-12,Saturday,Weekend,216,Sous Chef,1,1,8,160,1280,0,0
+2025-04-12,Saturday,Weekend,216,Line Cook,3,3,10,100,3000,0,0
+2025-04-12,Saturday,Weekend,216,Barista,2,2,10,90,1800,0,0
+2025-04-12,Saturday,Weekend,216,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-04-12,Saturday,Weekend,216,Cashier,1,2,10,80,1600,0,0
+2025-04-12,Saturday,Weekend,216,Kitchen Helper,2,3,10,65,1950,0,0
+2025-04-12,Saturday,Weekend,216,Delivery/Runner,2,3,8,65,1560,0,0
+2025-04-13,Sunday,Weekend,259,Head Chef,1,1,9,220,1980,0,0
+2025-04-13,Sunday,Weekend,259,Sous Chef,1,1,10,160,1600,0,0
+2025-04-13,Sunday,Weekend,259,Line Cook,3,3,10,100,3000,0,0
+2025-04-13,Sunday,Weekend,259,Barista,2,2,9,90,1620,0,0
+2025-04-13,Sunday,Weekend,259,Waiter/Waitress,5,6,9,75,4050,0,0
+2025-04-13,Sunday,Weekend,259,Cashier,1,1,10,80,800,0,0
+2025-04-13,Sunday,Weekend,259,Kitchen Helper,2,1,10,65,650,0,1
+2025-04-13,Sunday,Weekend,259,Delivery/Runner,2,3,10,65,1950,0,0
+2025-04-14,Monday,Weekday,157,Head Chef,1,1,10,220,2200,0,0
+2025-04-14,Monday,Weekday,157,Sous Chef,1,2,8,160,2560,0,0
+2025-04-14,Monday,Weekday,157,Line Cook,2,2,10,100,2000,0,0
+2025-04-14,Monday,Weekday,157,Barista,1,1,9,90,810,0,0
+2025-04-14,Monday,Weekday,157,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-04-14,Monday,Weekday,157,Cashier,1,1,10,80,800,0,0
+2025-04-14,Monday,Weekday,157,Kitchen Helper,1,1,10,65,650,0,0
+2025-04-14,Monday,Weekday,157,Delivery/Runner,1,2,9,65,1170,0,0
+2025-04-15,Tuesday,Weekday,150,Head Chef,1,1,9,220,1980,0,0
+2025-04-15,Tuesday,Weekday,150,Sous Chef,1,1,10,160,1600,0,0
+2025-04-15,Tuesday,Weekday,150,Line Cook,2,2,8,100,1600,0,0
+2025-04-15,Tuesday,Weekday,150,Barista,1,1,10,90,900,0,0
+2025-04-15,Tuesday,Weekday,150,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-04-15,Tuesday,Weekday,150,Cashier,1,2,9,80,1440,0,0
+2025-04-15,Tuesday,Weekday,150,Kitchen Helper,1,1,9,65,585,0,0
+2025-04-15,Tuesday,Weekday,150,Delivery/Runner,1,1,8,65,520,0,0
+2025-04-16,Wednesday,Weekday,165,Head Chef,1,2,9,220,3960,0,0
+2025-04-16,Wednesday,Weekday,165,Sous Chef,1,2,8,160,2560,0,0
+2025-04-16,Wednesday,Weekday,165,Line Cook,2,2,10,100,2000,0,0
+2025-04-16,Wednesday,Weekday,165,Barista,1,2,9,90,1620,0,0
+2025-04-16,Wednesday,Weekday,165,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-04-16,Wednesday,Weekday,165,Cashier,1,1,9,80,720,0,0
+2025-04-16,Wednesday,Weekday,165,Kitchen Helper,1,2,10,65,1300,0,0
+2025-04-16,Wednesday,Weekday,165,Delivery/Runner,1,1,9,65,585,0,0
+2025-04-17,Thursday,Weekday,150,Head Chef,1,2,8,220,3520,0,0
+2025-04-17,Thursday,Weekday,150,Sous Chef,1,1,9,160,1440,0,0
+2025-04-17,Thursday,Weekday,150,Line Cook,2,2,8,100,1600,0,0
+2025-04-17,Thursday,Weekday,150,Barista,1,1,8,90,720,0,0
+2025-04-17,Thursday,Weekday,150,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-04-17,Thursday,Weekday,150,Cashier,1,2,9,80,1440,0,0
+2025-04-17,Thursday,Weekday,150,Kitchen Helper,1,1,9,65,585,0,0
+2025-04-17,Thursday,Weekday,150,Delivery/Runner,1,2,8,65,1040,0,0
+2025-04-18,Friday,Weekend,268,Head Chef,1,1,10,220,2200,0,0
+2025-04-18,Friday,Weekend,268,Sous Chef,1,1,10,160,1600,0,0
+2025-04-18,Friday,Weekend,268,Line Cook,3,2,9,100,1800,0,1
+2025-04-18,Friday,Weekend,268,Barista,2,2,9,90,1620,0,0
+2025-04-18,Friday,Weekend,268,Waiter/Waitress,5,4,9,75,2700,0,1
+2025-04-18,Friday,Weekend,268,Cashier,1,1,8,80,640,0,0
+2025-04-18,Friday,Weekend,268,Kitchen Helper,2,1,10,65,650,0,1
+2025-04-18,Friday,Weekend,268,Delivery/Runner,2,1,10,65,650,0,1
+2025-04-19,Saturday,Weekend,219,Head Chef,1,1,9,220,1980,0,0
+2025-04-19,Saturday,Weekend,219,Sous Chef,1,1,8,160,1280,0,0
+2025-04-19,Saturday,Weekend,219,Line Cook,3,3,8,100,2400,0,0
+2025-04-19,Saturday,Weekend,219,Barista,2,2,8,90,1440,0,0
+2025-04-19,Saturday,Weekend,219,Waiter/Waitress,5,5,9,75,3375,0,0
+2025-04-19,Saturday,Weekend,219,Cashier,1,1,8,80,640,0,0
+2025-04-19,Saturday,Weekend,219,Kitchen Helper,2,2,9,65,1170,0,0
+2025-04-19,Saturday,Weekend,219,Delivery/Runner,2,2,9,65,1170,0,0
+2025-04-20,Sunday,Weekend,224,Head Chef,1,1,10,220,2200,0,0
+2025-04-20,Sunday,Weekend,224,Sous Chef,1,1,10,160,1600,0,0
+2025-04-20,Sunday,Weekend,224,Line Cook,3,4,10,100,4000,0,0
+2025-04-20,Sunday,Weekend,224,Barista,2,2,8,90,1440,0,0
+2025-04-20,Sunday,Weekend,224,Waiter/Waitress,5,4,10,75,3000,0,1
+2025-04-20,Sunday,Weekend,224,Cashier,1,1,10,80,800,0,0
+2025-04-20,Sunday,Weekend,224,Kitchen Helper,2,2,9,65,1170,0,0
+2025-04-20,Sunday,Weekend,224,Delivery/Runner,2,3,8,65,1560,0,0
+2025-04-21,Monday,Weekday,175,Head Chef,1,2,9,220,3960,0,0
+2025-04-21,Monday,Weekday,175,Sous Chef,1,1,10,160,1600,0,0
+2025-04-21,Monday,Weekday,175,Line Cook,2,2,9,100,1800,0,0
+2025-04-21,Monday,Weekday,175,Barista,1,1,9,90,810,0,0
+2025-04-21,Monday,Weekday,175,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-04-21,Monday,Weekday,175,Cashier,1,1,8,80,640,0,0
+2025-04-21,Monday,Weekday,175,Kitchen Helper,1,1,10,65,650,0,0
+2025-04-21,Monday,Weekday,175,Delivery/Runner,1,1,8,65,520,0,0
+2025-04-22,Tuesday,Weekday,166,Head Chef,1,2,9,220,3960,0,0
+2025-04-22,Tuesday,Weekday,166,Sous Chef,1,1,9,160,1440,0,0
+2025-04-22,Tuesday,Weekday,166,Line Cook,2,2,9,100,1800,0,0
+2025-04-22,Tuesday,Weekday,166,Barista,1,1,9,90,810,0,0
+2025-04-22,Tuesday,Weekday,166,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-04-22,Tuesday,Weekday,166,Cashier,1,2,8,80,1280,0,0
+2025-04-22,Tuesday,Weekday,166,Kitchen Helper,1,2,8,65,1040,0,0
+2025-04-22,Tuesday,Weekday,166,Delivery/Runner,1,2,9,65,1170,0,0
+2025-04-23,Wednesday,Weekday,171,Head Chef,1,1,9,220,1980,0,0
+2025-04-23,Wednesday,Weekday,171,Sous Chef,1,1,8,160,1280,0,0
+2025-04-23,Wednesday,Weekday,171,Line Cook,2,2,9,100,1800,0,0
+2025-04-23,Wednesday,Weekday,171,Barista,1,1,9,90,810,0,0
+2025-04-23,Wednesday,Weekday,171,Waiter/Waitress,3,3,10,75,2250,0,0
+2025-04-23,Wednesday,Weekday,171,Cashier,1,1,10,80,800,0,0
+2025-04-23,Wednesday,Weekday,171,Kitchen Helper,1,1,9,65,585,0,0
+2025-04-23,Wednesday,Weekday,171,Delivery/Runner,1,1,8,65,520,0,0
+2025-04-24,Thursday,Weekday,150,Head Chef,1,1,9,220,1980,0,0
+2025-04-24,Thursday,Weekday,150,Sous Chef,1,2,10,160,3200,0,0
+2025-04-24,Thursday,Weekday,150,Line Cook,2,2,10,100,2000,0,0
+2025-04-24,Thursday,Weekday,150,Barista,1,1,9,90,810,0,0
+2025-04-24,Thursday,Weekday,150,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-04-24,Thursday,Weekday,150,Cashier,1,1,8,80,640,0,0
+2025-04-24,Thursday,Weekday,150,Kitchen Helper,1,1,8,65,520,0,0
+2025-04-24,Thursday,Weekday,150,Delivery/Runner,1,1,9,65,585,0,0
+2025-04-25,Friday,Weekend,241,Head Chef,1,1,8,220,1760,0,0
+2025-04-25,Friday,Weekend,241,Sous Chef,1,2,8,160,2560,0,0
+2025-04-25,Friday,Weekend,241,Line Cook,3,2,8,100,1600,0,1
+2025-04-25,Friday,Weekend,241,Barista,2,2,8,90,1440,0,0
+2025-04-25,Friday,Weekend,241,Waiter/Waitress,5,5,8,75,3000,0,0
+2025-04-25,Friday,Weekend,241,Cashier,1,1,10,80,800,0,0
+2025-04-25,Friday,Weekend,241,Kitchen Helper,2,2,8,65,1040,0,0
+2025-04-25,Friday,Weekend,241,Delivery/Runner,2,2,8,65,1040,0,0
+2025-04-26,Saturday,Weekend,227,Head Chef,1,1,8,220,1760,0,0
+2025-04-26,Saturday,Weekend,227,Sous Chef,1,2,10,160,3200,0,0
+2025-04-26,Saturday,Weekend,227,Line Cook,3,4,10,100,4000,0,0
+2025-04-26,Saturday,Weekend,227,Barista,2,2,10,90,1800,0,0
+2025-04-26,Saturday,Weekend,227,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-04-26,Saturday,Weekend,227,Cashier,1,1,9,80,720,0,0
+2025-04-26,Saturday,Weekend,227,Kitchen Helper,2,3,8,65,1560,0,0
+2025-04-26,Saturday,Weekend,227,Delivery/Runner,2,2,9,65,1170,0,0
+2025-04-27,Sunday,Weekend,227,Head Chef,1,1,8,220,1760,0,0
+2025-04-27,Sunday,Weekend,227,Sous Chef,1,1,10,160,1600,0,0
+2025-04-27,Sunday,Weekend,227,Line Cook,3,2,10,100,2000,0,1
+2025-04-27,Sunday,Weekend,227,Barista,2,2,10,90,1800,0,0
+2025-04-27,Sunday,Weekend,227,Waiter/Waitress,5,5,10,75,3750,0,0
+2025-04-27,Sunday,Weekend,227,Cashier,1,1,8,80,640,0,0
+2025-04-27,Sunday,Weekend,227,Kitchen Helper,2,2,10,65,1300,0,0
+2025-04-27,Sunday,Weekend,227,Delivery/Runner,2,3,8,65,1560,0,0
+2025-04-28,Monday,Weekday,160,Head Chef,1,1,10,220,2200,0,0
+2025-04-28,Monday,Weekday,160,Sous Chef,1,1,8,160,1280,0,0
+2025-04-28,Monday,Weekday,160,Line Cook,2,2,8,100,1600,0,0
+2025-04-28,Monday,Weekday,160,Barista,1,1,9,90,810,0,0
+2025-04-28,Monday,Weekday,160,Waiter/Waitress,3,3,8,75,1800,0,0
+2025-04-28,Monday,Weekday,160,Cashier,1,1,10,80,800,0,0
+2025-04-28,Monday,Weekday,160,Kitchen Helper,1,1,9,65,585,0,0
+2025-04-28,Monday,Weekday,160,Delivery/Runner,1,1,9,65,585,0,0
+2025-04-29,Tuesday,Weekday,170,Head Chef,1,1,9,220,1980,0,0
+2025-04-29,Tuesday,Weekday,170,Sous Chef,1,2,9,160,2880,0,0
+2025-04-29,Tuesday,Weekday,170,Line Cook,2,2,8,100,1600,0,0
+2025-04-29,Tuesday,Weekday,170,Barista,1,2,10,90,1800,0,0
+2025-04-29,Tuesday,Weekday,170,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-04-29,Tuesday,Weekday,170,Cashier,1,1,9,80,720,0,0
+2025-04-29,Tuesday,Weekday,170,Kitchen Helper,1,1,8,65,520,0,0
+2025-04-29,Tuesday,Weekday,170,Delivery/Runner,1,1,10,65,650,0,0
+2025-04-30,Wednesday,Weekday,143,Head Chef,1,1,9,220,1980,0,0
+2025-04-30,Wednesday,Weekday,143,Sous Chef,1,1,8,160,1280,0,0
+2025-04-30,Wednesday,Weekday,143,Line Cook,2,2,9,100,1800,0,0
+2025-04-30,Wednesday,Weekday,143,Barista,1,1,10,90,900,0,0
+2025-04-30,Wednesday,Weekday,143,Waiter/Waitress,3,3,9,75,2025,0,0
+2025-04-30,Wednesday,Weekday,143,Cashier,1,1,8,80,640,0,0
+2025-04-30,Wednesday,Weekday,143,Kitchen Helper,1,2,8,65,1040,0,0
+2025-04-30,Wednesday,Weekday,143,Delivery/Runner,1,2,10,65,1300,0,0
