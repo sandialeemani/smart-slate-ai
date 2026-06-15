@@ -207,16 +207,14 @@ jupyter>=1.0.0
 
 - **Report:** `/report/CSCI323_Slate_Kitchen_Report.pdf`
 - **Presentation:** `/presentation/CSCI323_Slate_Kitchen_Slides.pptx`
-- **Video demo:** [link to be added before submission]
+
 
 ---
 
 ## Acknowledgements
 
 We thank the CSCI323 course instructors — Dr. Milan Dordevic,
-Dr. Abdullah El Nokiti, Ms. Asma Damankesh, and
-Ms. Syama Kurungodathil — for their guidance throughout this project.
-
+Dr. Abdullah El Nokiti
 ---
 
 *UOWD · CSCI323 · Spring 2026*
