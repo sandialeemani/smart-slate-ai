@@ -85,8 +85,8 @@ Full methodology, evaluation, limitations, and ethical considerations are in [`/
 
 1. Clone the repo:
 ```bash
-   git clone https://github.com/<your-org>/<your-repo>.git
-   cd <your-repo>
+   git clone : [https://github.com/sandialeemani/smart-slate-ai]
+   cd <sandialeemani/smart-slate-ai>
 ```
 2. Open any notebook in `notebooks/` in Google Colab or Jupyter.
 3. Upload the corresponding CSV(s) from `data/` when prompted (or mount the repo if running locally).
@@ -121,7 +121,7 @@ See **Appendix B** of the final report for the full data preprocessing summary.
 
 ## License
 
-Academic coursework submitted for CSCI323, University of Wollongong in Dubai. Code is shared here for reproducibility and grading purposes — add an explicit license (e.g. MIT) if you intend this to be reused beyond the course.
+Academic coursework submitted for CSCI323, University of Wollongong in Dubai. Code is shared here for reproducibility and grading purposes.
 
 ## Acknowledgements
 
