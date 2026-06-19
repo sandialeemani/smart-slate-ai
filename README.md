@@ -1,220 +1,128 @@
-# Smart Operations AI — Slate Kitchen & Café
-### CSCI323 Modern Artificial Intelligence | UOWD | Spring 2026
+# AI-Powered Operational Management Platform — Slate Kitchen & Café
 
-AI-powered system for demand forecasting, inventory management,
-and dynamic pricing at a UAE café. Built by a group of 5 students
-as the final project for CSCI323.
+CSCI323 — Modern Artificial Intelligence · University of Wollongong in Dubai · Spring 2026
+Tutor: Dr. Abdalla Elnikiti · Submitted: 21 June 2026
 
----
-
-## Team
-
-| Member | Role |
-|--------|------|
-| Member 1 | Project lead, problem definition, executive summary |
-| Member 2 | Demand forecasting model (LSTM/XGBoost) |
-| Member 3 | Inventory management & stock alert system |
-| Member 4 | Dynamic pricing engine |
-| Sandiya Kumari (8990682) | Evaluation, report, presentation, repo |
+An AI-driven operational management platform built for a UAE café, combining demand forecasting, inventory management, and dynamic pricing into a single decision-support pipeline. Developed using synthetic data modelled on a real café's menu, pricing, and operating patterns.
 
 ---
 
-## Project Structure
-smart-slate-ai/
+## Overview
 
-│
+Slate Kitchen & Café faced three linked operational problems: unpredictable demand making staffing and prep difficult, reactive (rather than predictive) inventory restocking, and full-price perishables being written off at closing time instead of sold at a markdown. This project addresses all three with one integrated pipeline:
 
-├── data/
+Historical Sales Data
 
-│   ├── slate_sales_transactions.csv
+↓
 
-│   ├── slate_staffing.csv
+Demand Forecasting Model  (Logistic Regression / KNN — busy vs. quiet day classification)
 
-│   ├── slate_inventory_daily.csv
+↓
 
-│   └── slate_dynamic_pricing.csv
+Inventory Management System  (Low-Stock Prediction · Expiry-Risk Prediction · Supplier Order Recommendation)
 
-│
+↓
+
+Dynamic Pricing Engine  (time-based markdown cascade on expiry-risk items)
+
+↓
+
+Management Dashboard
+
+## Results at a glance
+
+| Metric | Result |
+|---|---|
+| Demand classification accuracy | 94.3% (F1 = 0.93) |
+| Low-stock alerts generated | 2,267 |
+| Inventory expiry-risk flags | 290 |
+| Overall ingredient wastage rate | 2.40% |
+| Waste units avoided (dynamic pricing) | 2,758 |
+| Revenue recovered via discounting | AED 34,809 |
+| Understaffed shifts identified | 92 |
+
+Full methodology, evaluation, limitations, and ethical considerations are in [`/report`](./report).
+
+## Repository structure
+
+.
 
 ├── notebooks/
 
-│   ├── 01_demand_forecasting.ipynb      # Member 2
+│   ├── 01_demand_forecasting.ipynb       # Logistic Regression + KNN classification
 
-│   ├── 02_inventory_management.ipynb   # Member 3
+│   ├── 02_inventory_management.ipynb     # Low-stock & expiry-risk models, reorder logic
 
-│   └── 03_dynamic_pricing.ipynb        # Member 4
+│   └── 03_dynamic_pricing.ipynb          # Discount-tier pricing engine
 
-│
+├── data/
 
-├── src/
+│   ├── sales_transactions.csv            # 64,855 synthetic transaction records
 
-│   ├── forecasting/
+│   ├── staffing.csv                      # 1,448 daily staffing records
 
-│   │   └── model.py
-
-│   ├── inventory/
-
-│   │   └── alert_system.py
-
-│   └── pricing/
-
-│       └── engine.py
-
-│
-
-├── results/
-
-│   ├── evaluation_metrics.csv
-
-│   ├── charts/
-
-│   └── confusion_matrices/
-
-│
+│   └── inventory_records.csv             # 8,326 daily inventory records
 
 ├── report/
 
-│   └── CSCI323_Slate_Kitchen_Report.pdf
-
-│
+│   └── CSCI323_Project_Final_Report.pdf
 
 ├── presentation/
 
-│   └── CSCI323_Slate_Kitchen_Slides.pptx
-
-│
-
-├── requirements.txt
+│   └── slate-kitchen-deck.pptx
 
 └── README.md
 
----
+*(Adjust paths above to match your actual folder names if they differ.)*
 
-## Problem Statement
+## Tech stack
 
-Slate Kitchen & Café faces three operational challenges common to UAE
-F&B businesses:
+- **Python 3** — pandas, numpy, scikit-learn, matplotlib, seaborn
+- **Models** — Logistic Regression, K-Nearest Neighbors, Random Forest Classifier
+- **Environment** — Google Colab (file upload via `files.upload()`)
 
-- **Perishable waste** — bakery and dairy items discarded unsold at day-end
-- **Staffing mismatches** — demand spikes not predicted, leading to
-  understaffed shifts
-- **Reactive inventory** — ingredients running out before reorder is triggered
+## Getting started
 
-This system addresses all three with AI models trained on 6 months of
-operational data (November 2024 – April 2025).
-
----
-
-## Models & Results
-
-### Module 1 — Demand Forecasting (LSTM/XGBoost)
-- **Task:** Predict hourly transaction volume and daily footfall
-- **Test R²:** 0.85 | **RMSE:** 24.1 transactions/hour
-- **Peak hours detected:** 10 AM (8,624 transactions) and 1 PM (9,200)
-
-### Module 2 — Inventory Management
-- **Task:** Low-stock alerting and expiry risk classification
-- **Alerts raised:** 2,267 low-stock events across 181 days
-- **Wastage rate:** 2.40% of ingredient throughput
-- **Critical finding:** Chicken Breast understocked on 103/181 days
-
-### Module 3 — Dynamic Pricing Engine
-- **Task:** Time-based discount rules for perishable bakery items
-- **Waste units avoided:** 2,758 over 6 months
-- **Revenue recovered:** AED 34,809
-- **Trigger rate:** 74.5% of evaluated pricing slots
-
----
-
-## Setup & Installation
-
-### Requirements
-
-- Python 3.9+
-- See `requirements.txt` for full dependency list
-
+1. Clone the repo:
 ```bash
-# Clone the repository
-git clone https://github.com/[your-team-username]/smart-slate-ai.git
-cd smart-slate-ai
-
-# Install dependencies
-pip install -r requirements.txt
+   git clone https://github.com/<your-org>/<your-repo>.git
+   cd <your-repo>
 ```
+2. Open any notebook in `notebooks/` in Google Colab or Jupyter.
+3. Upload the corresponding CSV(s) from `data/` when prompted (or mount the repo if running locally).
+4. Run all cells top to bottom — each notebook is self-contained and reproduces the metrics reported in the final report.
 
-### Run the notebooks
+Notebooks should be run in order (`01` → `02` → `03`), since the inventory and pricing modules consume the busy-day classification output from the demand forecasting model.
 
-```bash
-jupyter notebook notebooks/
-```
+## Methodology summary
 
-Open each notebook in order:
-1. `01_demand_forecasting.ipynb`
-2. `02_inventory_management.ipynb`
-3. `03_dynamic_pricing.ipynb`
+- **Demand Forecasting:** Daily revenue/covers aggregated from 6 months of transaction + staffing data, 18 engineered features (calendar flags, revenue/covers lags, one-hot encoded day name), median-split binary target, 80/20 chronological train-test split (`shuffle=False` to prevent leakage), `StandardScaler` fit on training data only.
+- **Inventory Management:** Random Forest classifiers for low-stock and expiry-risk prediction, fed by the demand model's busy-day output; reorder quantities calculated as `(Expected Consumption + Safety Stock) − Current Stock`.
+- **Dynamic Pricing:** Rules-based markdown cascade (20% at 6 PM → 30% at 7 PM → 40% at 8 PM) triggered on expiry-risk-flagged perishable bakery items.
 
-Each notebook is self-contained and includes data loading,
-preprocessing, model training, and evaluation.
+See **Appendix B** of the final report for the full data preprocessing summary.
 
----
+## Team & roles
 
-## Data
+| Name | Role |
+|---|---|
+| Ryan Sethi | Project Lead |
+| Akram Kamhawi | Demand Forecasting Model |
+| Ahmed Mohammed Sifat Ahmed | Inventory Management System |
+| David Samir | Dynamic Pricing Engine |
+| Sandiya Kumari | Evaluation Report & Presentation Lead |
 
-The dataset is synthetic, generated to represent realistic operational
-patterns for a UAE café. It does not contain real customer data.
+## Limitations
 
-All four CSV files should be placed in the `data/` directory before
-running the notebooks. The files are included in this repository.
+- Dataset is synthetic and spans only 6 months — insufficient for full annual seasonality (Ramadan, summer slowdown, December peak only partially represented).
+- No external signals (weather, competitor pricing, local events) incorporated into the forecasting model.
+- Inventory reorder thresholds are fixed in the synthetic data rather than dynamically optimised.
+- See Section 13 of the final report for the complete limitations discussion.
 
-Column descriptions for each dataset are documented at the top of
-the relevant notebook.
+## License
 
----
-
-## Requirements
-pandas>=1.5.0
-
-numpy>=1.23.0
-
-scikit-learn>=1.1.0
-
-tensorflow>=2.10.0       # for LSTM (Module 1)
-
-xgboost>=1.7.0           # alternative forecaster (Module 1)
-
-matplotlib>=3.6.0
-
-seaborn>=0.12.0
-
-jupyter>=1.0.0
-
----
-
-## Ethical Considerations
-
-- All data is synthetic; no real customer PII is included
-- A real deployment would require compliance with UAE Federal
-  Decree-Law No. 45 of 2021 (Personal Data Protection Law)
-- The staffing module is designed as a decision-support tool only;
-  human manager override is required at all times
-- Dynamic pricing discounts are applied to end-of-day perishables
-  only and are intended to reduce food waste, not to engage in
-  predatory pricing
-
----
-
-## Submission
-
-- **Report:** `/report/CSCI323_Slate_Kitchen_Report.pdf`
-- **Presentation:** `/presentation/CSCI323_Slate_Kitchen_Slides.pptx`
-
-
----
+Academic coursework submitted for CSCI323, University of Wollongong in Dubai. Code is shared here for reproducibility and grading purposes — add an explicit license (e.g. MIT) if you intend this to be reused beyond the course.
 
 ## Acknowledgements
 
-We thank the CSCI323 course instructors — Dr. Milan Dordevic,
-Dr. Abdullah El Nokiti
----
-
-*UOWD · CSCI323 · Spring 2026*
+Developed for CSCI323 — Modern Artificial Intelligence, Spring 2026, under Dr. Abdalla Elnikiti. See the final report's References section for all literature cited.
