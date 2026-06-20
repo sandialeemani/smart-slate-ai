@@ -1,6 +1,9 @@
 Smart Operations AI for Slate Kitchen and Cafe
+
 CSCI323 Modern Artificial Intelligence | University of Wollongong Dubai | Spring 2026
+
 An AI-powered operational management platform developed for Slate Kitchen and Cafe, a food and beverage business operating in Dubai, UAE. The system addresses three core operational inefficiencies through machine learning: unpredictable customer demand, reactive inventory management, and end-of-day perishable food waste. The platform comprises three integrated modules covering demand forecasting, inventory management, and dynamic pricing, built on six months of synthetic operational data modelled on real cafe operations.
+
 
 Table of Contents
 
