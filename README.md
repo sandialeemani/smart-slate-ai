@@ -3,7 +3,7 @@ CSCI323 Modern Artificial Intelligence | University of Wollongong Dubai | Spring
 An AI-powered operational management platform developed for Slate Kitchen and Cafe, a food and beverage business operating in Dubai, UAE. The system addresses three core operational inefficiencies through machine learning: unpredictable customer demand, reactive inventory management, and end-of-day perishable food waste. The platform comprises three integrated modules covering demand forecasting, inventory management, and dynamic pricing, built on six months of synthetic operational data modelled on real cafe operations.
 
 
-Table of Contents
+Table of Contents:
 
 Project Overview
 Team
@@ -26,7 +26,7 @@ This project applies supervised machine learning to convert historical sales, st
 The dataset covers 181 operating days from November 2024 to April 2025, comprising 64,855 sales transactions, 1,448 staffing records, 8,326 inventory records, and 1,457 dynamic pricing events. All data is synthetic, generated to reflect realistic operational patterns for a Dubai cafe including weekend peaks, UAE public holidays, and the tourist peak season from November to February.
 
 Team
-NameStudent IDRoleRyan Sethi8891229Project LeadAkram Kamhawi8870226Demand Forecasting ModelAhmed Mohammed Sifat Ahmed8787700Inventory Management SystemDavid Samir8220220Dynamic Pricing EngineSandiya Kumari8990682Evaluation Report and Presentation Lead
+Name: Student IDRoleRyan Sethi8891229Project LeadAkram Kamhawi8870226Demand Forecasting ModelAhmed Mohammed Sifat Ahmed8787700Inventory Management SystemDavid Samir8220220Dynamic Pricing EngineSandiya Kumari8990682Evaluation Report and Presentation Lead
 Institution: University of Wollongong Dubai (UOWD)
 
 Course: CSCI323 Modern Artificial Intelligence
