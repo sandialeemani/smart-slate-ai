@@ -64,9 +64,6 @@ smart-slate-ai/
 │   ├── slate_staffing.csv               # 1,448 daily staffing records
 │   ├── slate_inventory_daily.csv        # 8,326 daily inventory records
 │   └── slate_dynamic_pricing.csv        # 1,457 dynamic pricing events
-├── outputs/
-│   ├── slate_model_metrics.csv          # Model performance metrics export
-│   └── slate_forecast_output.csv        # Daily busy/quiet day predictions
 ├── README.md
 └── requirements.txt
 ```
